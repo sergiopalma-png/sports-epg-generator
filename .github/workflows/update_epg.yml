@@ -1,0 +1,39 @@
+name: Update Sports EPG
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate sports_guide.xml
+        run: python3 generate_epg.py
+
+      - name: Commit and push updated guide
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet -- sports_guide.xml; then
+            echo "No changes to sports_guide.xml, skipping commit."
+            exit 0
+          fi
+
+          git add sports_guide.xml
+          git commit -m "chore: update sports_guide.xml [automated]"
+          git push origin HEAD:main
