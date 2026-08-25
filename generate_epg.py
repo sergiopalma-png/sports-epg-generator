@@ -108,7 +108,9 @@ def extract_broadcast_names(competition: dict) -> list[str]:
             if name and name not in names:
                 names.append(name)
 
-    return names
+    # ESPN lists the main broadcast first; keep it plus one secondary and
+    # drop the rest so the guide doesn't get crowded with every simulcast.
+    return names[:2]
 
 
 def extract_events(league: str, scoreboard: dict) -> list[dict]:
