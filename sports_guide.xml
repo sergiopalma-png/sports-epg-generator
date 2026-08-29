@@ -45,7 +45,7 @@
   <programme start="20260828182000 +0000" stop="20260828212000 +0000" channel="sports-daily-guide">
     <title lang="en">CIN @ CHC</title>
     <sub-title lang="en">MLB on ESPN Unlmtd/MLB.TV</sub-title>
-    <desc lang="en">CIN @ CHC (MLB) - End 9th</desc>
+    <desc lang="en">CIN @ CHC (MLB) - Final</desc>
     <credits>
       <presenter>ESPN Unlmtd</presenter>
       <presenter>MLB.TV</presenter>
@@ -55,7 +55,7 @@
   <programme start="20260828220000 +0000" stop="20260829010000 +0000" channel="sports-daily-guide">
     <title lang="en">WSH @ BAL</title>
     <sub-title lang="en">NFL on NFL Net/WBAL-TV</sub-title>
-    <desc lang="en">WSH @ BAL (NFL) - 8/28 - 6:00 PM EDT</desc>
+    <desc lang="en">WSH @ BAL (NFL) - Final</desc>
     <credits>
       <presenter>NFL Net</presenter>
       <presenter>WBAL-TV</presenter>
@@ -65,7 +65,7 @@
   <programme start="20260828224000 +0000" stop="20260829014000 +0000" channel="sports-daily-guide">
     <title lang="en">LAD @ DET</title>
     <sub-title lang="en">MLB on MLB.TV/SportsNet LA</sub-title>
-    <desc lang="en">LAD @ DET (MLB) - 8/28 - 6:40 PM EDT</desc>
+    <desc lang="en">LAD @ DET (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>SportsNet LA</presenter>
@@ -75,7 +75,7 @@
   <programme start="20260828224500 +0000" stop="20260829014500 +0000" channel="sports-daily-guide">
     <title lang="en">MIA @ WSH</title>
     <sub-title lang="en">MLB on MLB.TV/Marlins.TV</sub-title>
-    <desc lang="en">MIA @ WSH (MLB) - 8/28 - 6:45 PM EDT</desc>
+    <desc lang="en">MIA @ WSH (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>Marlins.TV</presenter>
@@ -85,7 +85,7 @@
   <programme start="20260828230000 +0000" stop="20260829020000 +0000" channel="sports-daily-guide">
     <title lang="en">ATL @ MIA</title>
     <sub-title lang="en">NFL on CBS Miami</sub-title>
-    <desc lang="en">ATL @ MIA (NFL) - 8/28 - 7:00 PM EDT</desc>
+    <desc lang="en">ATL @ MIA (NFL) - Final</desc>
     <credits>
       <presenter>CBS Miami</presenter>
     </credits>
@@ -94,7 +94,7 @@
   <programme start="20260828230000 +0000" stop="20260829020000 +0000" channel="sports-daily-guide">
     <title lang="en">HOU @ CAR</title>
     <sub-title lang="en">NFL on KTRK (ABC)</sub-title>
-    <desc lang="en">HOU @ CAR (NFL) - 8/28 - 7:00 PM EDT</desc>
+    <desc lang="en">HOU @ CAR (NFL) - Final</desc>
     <credits>
       <presenter>KTRK (ABC)</presenter>
     </credits>
@@ -103,7 +103,7 @@
   <programme start="20260828231000 +0000" stop="20260829021000 +0000" channel="sports-daily-guide">
     <title lang="en">HOU @ NYM</title>
     <sub-title lang="en">MLB on MLB.TV/Space City Home Network</sub-title>
-    <desc lang="en">HOU @ NYM (MLB) - 8/28 - 7:10 PM EDT</desc>
+    <desc lang="en">HOU @ NYM (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>Space City Home Network</presenter>
@@ -113,7 +113,7 @@
   <programme start="20260828231000 +0000" stop="20260829021000 +0000" channel="sports-daily-guide">
     <title lang="en">KC @ CLE</title>
     <sub-title lang="en">MLB on MLB.TV/CLEGuardians.TV</sub-title>
-    <desc lang="en">KC @ CLE (MLB) - 8/28 - 7:10 PM EDT</desc>
+    <desc lang="en">KC @ CLE (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>CLEGuardians.TV</presenter>
@@ -123,7 +123,7 @@
   <programme start="20260828231000 +0000" stop="20260829021000 +0000" channel="sports-daily-guide">
     <title lang="en">SD @ TB</title>
     <sub-title lang="en">MLB on MLB.TV/Padres.TV</sub-title>
-    <desc lang="en">SD @ TB (MLB) - 8/28 - 7:10 PM EDT</desc>
+    <desc lang="en">SD @ TB (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>Padres.TV</presenter>
@@ -133,7 +133,7 @@
   <programme start="20260828231500 +0000" stop="20260829021500 +0000" channel="sports-daily-guide">
     <title lang="en">BOS @ NYY</title>
     <sub-title lang="en">MLB on NESN/Apple TV</sub-title>
-    <desc lang="en">BOS @ NYY (MLB) - 8/28 - 7:15 PM EDT</desc>
+    <desc lang="en">BOS @ NYY (MLB) - Final</desc>
     <credits>
       <presenter>NESN</presenter>
       <presenter>Apple TV</presenter>
@@ -143,7 +143,7 @@
   <programme start="20260828231500 +0000" stop="20260829021500 +0000" channel="sports-daily-guide">
     <title lang="en">COL @ ATL</title>
     <sub-title lang="en">MLB on MLB.TV/BravesVision</sub-title>
-    <desc lang="en">COL @ ATL (MLB) - 8/28 - 7:15 PM EDT</desc>
+    <desc lang="en">COL @ ATL (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>BravesVision</presenter>
@@ -153,7 +153,7 @@
   <programme start="20260828231500 +0000" stop="20260829021500 +0000" channel="sports-daily-guide">
     <title lang="en">SEA @ TOR</title>
     <sub-title lang="en">MLB on Apple TV</sub-title>
-    <desc lang="en">SEA @ TOR (MLB) - 8/28 - 7:15 PM EDT</desc>
+    <desc lang="en">SEA @ TOR (MLB) - Final</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -162,7 +162,7 @@
   <programme start="20260828233000 +0000" stop="20260829023000 +0000" channel="sports-daily-guide">
     <title lang="en">NYG @ NYJ</title>
     <sub-title lang="en">NFL on WCBS</sub-title>
-    <desc lang="en">NYG @ NYJ (NFL) - 8/28 - 7:30 PM EDT</desc>
+    <desc lang="en">NYG @ NYJ (NFL) - Final</desc>
     <credits>
       <presenter>WCBS</presenter>
     </credits>
@@ -171,7 +171,7 @@
   <programme start="20260828233000 +0000" stop="20260829023000 +0000" channel="sports-daily-guide">
     <title lang="en">TB @ JAX</title>
     <sub-title lang="en">NFL on FOX30</sub-title>
-    <desc lang="en">TB @ JAX (NFL) - 8/28 - 7:30 PM EDT</desc>
+    <desc lang="en">TB @ JAX (NFL) - Final</desc>
     <credits>
       <presenter>FOX30</presenter>
     </credits>
@@ -180,7 +180,7 @@
   <programme start="20260828233000 +0000" stop="20260829023000 +0000" channel="sports-daily-guide">
     <title lang="en">POR @ ATL</title>
     <sub-title lang="en">WNBA on ION/WNBA League Pass</sub-title>
-    <desc lang="en">POR @ ATL (WNBA) - 8/28 - 7:30 PM EDT</desc>
+    <desc lang="en">POR @ ATL (WNBA) - Final</desc>
     <credits>
       <presenter>ION</presenter>
       <presenter>WNBA League Pass</presenter>
@@ -190,7 +190,7 @@
   <programme start="20260828233000 +0000" stop="20260829023000 +0000" channel="sports-daily-guide">
     <title lang="en">CON @ IND</title>
     <sub-title lang="en">WNBA on ION/WNBA League Pass</sub-title>
-    <desc lang="en">CON @ IND (WNBA) - 8/28 - 7:30 PM EDT</desc>
+    <desc lang="en">CON @ IND (WNBA) - Final</desc>
     <credits>
       <presenter>ION</presenter>
       <presenter>WNBA League Pass</presenter>
@@ -200,7 +200,7 @@
   <programme start="20260828234000 +0000" stop="20260829024000 +0000" channel="sports-daily-guide">
     <title lang="en">TEX @ MIL</title>
     <sub-title lang="en">MLB on MLB.TV/Brewers.TV</sub-title>
-    <desc lang="en">TEX @ MIL (MLB) - 8/28 - 7:40 PM EDT</desc>
+    <desc lang="en">TEX @ MIL (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>Brewers.TV</presenter>
@@ -210,7 +210,7 @@
   <programme start="20260829000000 +0000" stop="20260829030000 +0000" channel="sports-daily-guide">
     <title lang="en">NO @ DAL</title>
     <sub-title lang="en">NFL on ESPN Unlmtd/Fox 8</sub-title>
-    <desc lang="en">NO @ DAL (NFL) - 8/28 - 8:00 PM EDT</desc>
+    <desc lang="en">NO @ DAL (NFL) - Final</desc>
     <credits>
       <presenter>ESPN Unlmtd</presenter>
       <presenter>Fox 8</presenter>
@@ -220,7 +220,7 @@
   <programme start="20260829000000 +0000" stop="20260829030000 +0000" channel="sports-daily-guide">
     <title lang="en">ARI @ GB</title>
     <sub-title lang="en">NFL on Packers TV Network</sub-title>
-    <desc lang="en">ARI @ GB (NFL) - 8/28 - 8:00 PM EDT</desc>
+    <desc lang="en">ARI @ GB (NFL) - Final</desc>
     <credits>
       <presenter>Packers TV Network</presenter>
     </credits>
@@ -229,7 +229,7 @@
   <programme start="20260829000000 +0000" stop="20260829030000 +0000" channel="sports-daily-guide">
     <title lang="en">SEA @ KC</title>
     <sub-title lang="en">NFL on ESPN Unlmtd/KSHB</sub-title>
-    <desc lang="en">SEA @ KC (NFL) - 8/28 - 8:00 PM EDT</desc>
+    <desc lang="en">SEA @ KC (NFL) - Final</desc>
     <credits>
       <presenter>ESPN Unlmtd</presenter>
       <presenter>KSHB</presenter>
@@ -239,7 +239,7 @@
   <programme start="20260829000000 +0000" stop="20260829030000 +0000" channel="sports-daily-guide">
     <title lang="en">CIN @ PHI</title>
     <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">CIN @ PHI (NFL) - 8/28 - 8:00 PM EDT</desc>
+    <desc lang="en">CIN @ PHI (NFL) - Final</desc>
     <credits>
       <presenter>CBS</presenter>
     </credits>
@@ -248,7 +248,7 @@
   <programme start="20260829001000 +0000" stop="20260829031000 +0000" channel="sports-daily-guide">
     <title lang="en">CHW @ MIN</title>
     <sub-title lang="en">MLB on MLB.TV/Twins.TV</sub-title>
-    <desc lang="en">CHW @ MIN (MLB) - 8/28 - 8:10 PM EDT</desc>
+    <desc lang="en">CHW @ MIN (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>Twins.TV</presenter>
@@ -258,7 +258,7 @@
   <programme start="20260829001500 +0000" stop="20260829031500 +0000" channel="sports-daily-guide">
     <title lang="en">PIT @ STL</title>
     <sub-title lang="en">MLB on MLB.TV/Cardinals.TV</sub-title>
-    <desc lang="en">PIT @ STL (MLB) - 8/28 - 8:15 PM EDT</desc>
+    <desc lang="en">PIT @ STL (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>Cardinals.TV</presenter>
@@ -268,7 +268,7 @@
   <programme start="20260829010000 +0000" stop="20260829040000 +0000" channel="sports-daily-guide">
     <title lang="en">MIN @ DEN</title>
     <sub-title lang="en">NFL on NFL Net/KUSA-TV (9NEWS)</sub-title>
-    <desc lang="en">MIN @ DEN (NFL) - 8/28 - 9:00 PM EDT</desc>
+    <desc lang="en">MIN @ DEN (NFL) - Final</desc>
     <credits>
       <presenter>NFL Net</presenter>
       <presenter>KUSA-TV (9NEWS)</presenter>
@@ -278,7 +278,7 @@
   <programme start="20260829013800 +0000" stop="20260829043800 +0000" channel="sports-daily-guide">
     <title lang="en">PHI @ LAA</title>
     <sub-title lang="en">MLB on MLB.TV/NBC Sports Phil</sub-title>
-    <desc lang="en">PHI @ LAA (MLB) - 8/28 - 9:38 PM EDT</desc>
+    <desc lang="en">PHI @ LAA (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>NBC Sports Phil</presenter>
@@ -288,7 +288,7 @@
   <programme start="20260829014000 +0000" stop="20260829044000 +0000" channel="sports-daily-guide">
     <title lang="en">BAL @ ATH</title>
     <sub-title lang="en">MLB on MLB.TV/MASN</sub-title>
-    <desc lang="en">BAL @ ATH (MLB) - 8/28 - 9:40 PM EDT</desc>
+    <desc lang="en">BAL @ ATH (MLB) - Final/10</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>MASN</presenter>
@@ -298,7 +298,7 @@
   <programme start="20260829020000 +0000" stop="20260829050000 +0000" channel="sports-daily-guide">
     <title lang="en">TOR @ LV</title>
     <sub-title lang="en">WNBA on ION/WNBA League Pass</sub-title>
-    <desc lang="en">TOR @ LV (WNBA) - 8/28 - 10:00 PM EDT</desc>
+    <desc lang="en">TOR @ LV (WNBA) - Final</desc>
     <credits>
       <presenter>ION</presenter>
       <presenter>WNBA League Pass</presenter>
@@ -308,7 +308,7 @@
   <programme start="20260829020000 +0000" stop="20260829050000 +0000" channel="sports-daily-guide">
     <title lang="en">WSH @ LA</title>
     <sub-title lang="en">WNBA on ION/WNBA League Pass</sub-title>
-    <desc lang="en">WSH @ LA (WNBA) - 8/28 - 10:00 PM EDT</desc>
+    <desc lang="en">WSH @ LA (WNBA) - Final</desc>
     <credits>
       <presenter>ION</presenter>
       <presenter>WNBA League Pass</presenter>
@@ -318,7 +318,7 @@
   <programme start="20260829021500 +0000" stop="20260829051500 +0000" channel="sports-daily-guide">
     <title lang="en">ARI @ SF</title>
     <sub-title lang="en">MLB on MLB.TV/NBC Sports BA</sub-title>
-    <desc lang="en">ARI @ SF (MLB) - 8/28 - 10:15 PM EDT</desc>
+    <desc lang="en">ARI @ SF (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>NBC Sports BA</presenter>
