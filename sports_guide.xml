@@ -12,17 +12,7 @@
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
-  <programme start="20260831220500 +0000" stop="20260901010500 +0000" channel="sports-daily-guide">
-    <title lang="en">SF @ ATL</title>
-    <sub-title lang="en">MLB on MLB.TV/BravesVision</sub-title>
-    <desc lang="en">SF @ ATL (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>BravesVision</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260831224000 +0000" stop="20260901014000 +0000" channel="sports-daily-guide">
+  <programme start="20260901224000 +0000" stop="20260902014000 +0000" channel="sports-daily-guide">
     <title lang="en">NYM @ TB</title>
     <sub-title lang="en">MLB on MLB.TV/Rays.TV</sub-title>
     <desc lang="en">NYM @ TB (MLB) - Final</desc>
@@ -32,37 +22,57 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260831224000 +0000" stop="20260901014000 +0000" channel="sports-daily-guide">
+  <programme start="20260901224000 +0000" stop="20260902014000 +0000" channel="sports-daily-guide">
     <title lang="en">SD @ CIN</title>
-    <sub-title lang="en">MLB on MLB.TV/Gray Media</sub-title>
+    <sub-title lang="en">MLB on MLB.TV/Padres.TV</sub-title>
     <desc lang="en">SD @ CIN (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
-      <presenter>Gray Media</presenter>
+      <presenter>Padres.TV</presenter>
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260831224500 +0000" stop="20260901014500 +0000" channel="sports-daily-guide">
-    <title lang="en">MIA @ WSH</title>
-    <sub-title lang="en">MLB on MLB.TV/FS1</sub-title>
-    <desc lang="en">MIA @ WSH (MLB) - Final</desc>
+  <programme start="20260901224000 +0000" stop="20260902014000 +0000" channel="sports-daily-guide">
+    <title lang="en">SF @ PIT</title>
+    <sub-title lang="en">MLB on MLB.TV/NBC Sports BA</sub-title>
+    <desc lang="en">SF @ PIT (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
-      <presenter>FS1</presenter>
+      <presenter>NBC Sports BA</presenter>
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260831224500 +0000" stop="20260901014500 +0000" channel="sports-daily-guide">
+  <programme start="20260901224000 +0000" stop="20260902014000 +0000" channel="sports-daily-guide">
+    <title lang="en">TOR @ CLE</title>
+    <sub-title lang="en">MLB on MLB.TV/CLEGuardians.TV</sub-title>
+    <desc lang="en">TOR @ CLE (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>CLEGuardians.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260901224500 +0000" stop="20260902014500 +0000" channel="sports-daily-guide">
+    <title lang="en">ATL @ WSH</title>
+    <sub-title lang="en">MLB on MLB.TV/BravesVision</sub-title>
+    <desc lang="en">ATL @ WSH (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>BravesVision</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260901224500 +0000" stop="20260902014500 +0000" channel="sports-daily-guide">
     <title lang="en">SEA @ BOS</title>
     <sub-title lang="en">MLB on MLB.TV/Mariners.TV</sub-title>
-    <desc lang="en">SEA @ BOS (MLB) - Final/10</desc>
+    <desc lang="en">SEA @ BOS (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
       <presenter>Mariners.TV</presenter>
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260831234000 +0000" stop="20260901024000 +0000" channel="sports-daily-guide">
+  <programme start="20260901234000 +0000" stop="20260902024000 +0000" channel="sports-daily-guide">
     <title lang="en">DET @ MIN</title>
     <sub-title lang="en">MLB on MLB.TV/Twins.TV</sub-title>
     <desc lang="en">DET @ MIN (MLB) - Final</desc>
@@ -72,17 +82,27 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260831234000 +0000" stop="20260901024000 +0000" channel="sports-daily-guide">
-    <title lang="en">MIL @ CHC</title>
-    <sub-title lang="en">MLB on MLB.TV/Marquee Sports Net</sub-title>
-    <desc lang="en">MIL @ CHC (MLB) - Final</desc>
+  <programme start="20260901234000 +0000" stop="20260902024000 +0000" channel="sports-daily-guide">
+    <title lang="en">MIA @ KC</title>
+    <sub-title lang="en">MLB on MLB.TV/Royals.TV</sub-title>
+    <desc lang="en">MIA @ KC (MLB) - Final</desc>
     <credits>
       <presenter>MLB.TV</presenter>
-      <presenter>Marquee Sports Net</presenter>
+      <presenter>Royals.TV</presenter>
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260901000500 +0000" stop="20260901030500 +0000" channel="sports-daily-guide">
+  <programme start="20260901234000 +0000" stop="20260902024000 +0000" channel="sports-daily-guide">
+    <title lang="en">MIL @ CHC</title>
+    <sub-title lang="en">MLB on MLB.TV/TBS</sub-title>
+    <desc lang="en">MIL @ CHC (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>TBS</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260902000500 +0000" stop="20260902030500 +0000" channel="sports-daily-guide">
     <title lang="en">ATH @ TEX</title>
     <sub-title lang="en">MLB on MLB.TV/Rangers Sports Network</sub-title>
     <desc lang="en">ATH @ TEX (MLB) - Final</desc>
@@ -92,7 +112,7 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260901001000 +0000" stop="20260901031000 +0000" channel="sports-daily-guide">
+  <programme start="20260902001000 +0000" stop="20260902031000 +0000" channel="sports-daily-guide">
     <title lang="en">CHW @ HOU</title>
     <sub-title lang="en">MLB on MLB.TV/Space City Home Network</sub-title>
     <desc lang="en">CHW @ HOU (MLB) - Final</desc>
@@ -102,7 +122,7 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260901004000 +0000" stop="20260901034000 +0000" channel="sports-daily-guide">
+  <programme start="20260902004000 +0000" stop="20260902034000 +0000" channel="sports-daily-guide">
     <title lang="en">BAL @ COL</title>
     <sub-title lang="en">MLB on MLB.TV/Rockies.TV</sub-title>
     <desc lang="en">BAL @ COL (MLB) - Final</desc>
@@ -112,7 +132,7 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260901013800 +0000" stop="20260901043800 +0000" channel="sports-daily-guide">
+  <programme start="20260902013800 +0000" stop="20260902043800 +0000" channel="sports-daily-guide">
     <title lang="en">NYY @ LAA</title>
     <sub-title lang="en">MLB on MLB.TV/YES</sub-title>
     <desc lang="en">NYY @ LAA (MLB) - Final</desc>
@@ -122,10 +142,20 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260901014000 +0000" stop="20260901044000 +0000" channel="sports-daily-guide">
+  <programme start="20260902014000 +0000" stop="20260902044000 +0000" channel="sports-daily-guide">
     <title lang="en">PHI @ ARI</title>
-    <sub-title lang="en">MLB on ESPN Unlmtd/MLB.TV</sub-title>
+    <sub-title lang="en">MLB on MLB.TV/DBACKS.TV</sub-title>
     <desc lang="en">PHI @ ARI (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>DBACKS.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260902021000 +0000" stop="20260902051000 +0000" channel="sports-daily-guide">
+    <title lang="en">STL @ LAD</title>
+    <sub-title lang="en">MLB on ESPN Unlmtd/MLB.TV</sub-title>
+    <desc lang="en">STL @ LAD (MLB) - Final</desc>
     <credits>
       <presenter>ESPN Unlmtd</presenter>
       <presenter>MLB.TV</presenter>
@@ -603,6 +633,30 @@
     <sub-title lang="en">NBA</sub-title>
     <desc lang="en">MIA @ TOR (NBA) - 10/3 - 7:00 PM EDT</desc>
     <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102080000 +0000" channel="sports-daily-guide">
+    <title lang="en">OSU VS BYU</title>
+    <sub-title lang="en">NCAA Basketball</sub-title>
+    <desc lang="en">OSU VS BYU (NCAA Basketball) - TBD</desc>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102080000 +0000" channel="sports-daily-guide">
+    <title lang="en">UND @ MINN</title>
+    <sub-title lang="en">NCAA Basketball</sub-title>
+    <desc lang="en">UND @ MINN (NCAA Basketball) - TBD</desc>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102080000 +0000" channel="sports-daily-guide">
+    <title lang="en">BUCK @ MD</title>
+    <sub-title lang="en">NCAA Basketball</sub-title>
+    <desc lang="en">BUCK @ MD (NCAA Basketball) - TBD</desc>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102080000 +0000" channel="sports-daily-guide">
+    <title lang="en">EIU @ IU</title>
+    <sub-title lang="en">NCAA Basketball</sub-title>
+    <desc lang="en">EIU @ IU (NCAA Basketball) - TBD</desc>
+    <category lang="en">NCAA Basketball</category>
   </programme>
   <programme start="20261102050000 +0000" stop="20261102080000 +0000" channel="sports-daily-guide">
     <title lang="en">FDU @ ILL</title>
