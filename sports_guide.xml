@@ -30,36 +30,6 @@
     </credits>
     <category lang="en">NFL</category>
   </programme>
-  <programme start="20260911182000 +0000" stop="20260911212000 +0000" channel="sports-daily-guide">
-    <title lang="en">PIT @ CHC</title>
-    <sub-title lang="en">MLB on MLB.TV/Marquee Sports Net</sub-title>
-    <desc lang="en">PIT @ CHC (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Marquee Sports Net</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911224000 +0000" stop="20260912014000 +0000" channel="sports-daily-guide">
-    <title lang="en">COL @ DET</title>
-    <sub-title lang="en">MLB on MLB.TV/Rockies.TV</sub-title>
-    <desc lang="en">COL @ DET (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Rockies.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911224500 +0000" stop="20260912014500 +0000" channel="sports-daily-guide">
-    <title lang="en">LAA @ WSH</title>
-    <sub-title lang="en">MLB on MLB.TV/Nationals.TV</sub-title>
-    <desc lang="en">LAA @ WSH (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Nationals.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
   <programme start="20260911230000 +0000" stop="20260912020000 +0000" channel="sports-daily-guide">
     <title lang="en">VILL @ LOU</title>
     <sub-title lang="en">NCAA Football on ACC Network</sub-title>
@@ -78,76 +48,6 @@
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
-  <programme start="20260911230500 +0000" stop="20260912020500 +0000" channel="sports-daily-guide">
-    <title lang="en">NYM @ NYY</title>
-    <sub-title lang="en">MLB on ESPN Unlmtd/MLB.TV</sub-title>
-    <desc lang="en">NYM @ NYY (MLB) - Final</desc>
-    <credits>
-      <presenter>ESPN Unlmtd</presenter>
-      <presenter>MLB.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911230700 +0000" stop="20260912020700 +0000" channel="sports-daily-guide">
-    <title lang="en">BAL @ TOR</title>
-    <sub-title lang="en">MLB on MLB.TV/MASN</sub-title>
-    <desc lang="en">BAL @ TOR (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>MASN</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911231000 +0000" stop="20260912021000 +0000" channel="sports-daily-guide">
-    <title lang="en">HOU @ TB</title>
-    <sub-title lang="en">MLB on MLB.TV/Rays.TV</sub-title>
-    <desc lang="en">HOU @ TB (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Rays.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911231000 +0000" stop="20260912021000 +0000" channel="sports-daily-guide">
-    <title lang="en">KC @ BOS</title>
-    <sub-title lang="en">MLB on MLB.TV/Royals.TV</sub-title>
-    <desc lang="en">KC @ BOS (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Royals.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911231000 +0000" stop="20260912021000 +0000" channel="sports-daily-guide">
-    <title lang="en">LAD @ MIA</title>
-    <sub-title lang="en">MLB on MLB.TV/SportsNet LA</sub-title>
-    <desc lang="en">LAD @ MIA (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>SportsNet LA</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911231500 +0000" stop="20260912021500 +0000" channel="sports-daily-guide">
-    <title lang="en">PHI @ ATL</title>
-    <sub-title lang="en">MLB on MLB.TV/BravesVision</sub-title>
-    <desc lang="en">PHI @ ATL (MLB) - Final/11</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>BravesVision</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260911234000 +0000" stop="20260912024000 +0000" channel="sports-daily-guide">
-    <title lang="en">CIN @ MIL</title>
-    <sub-title lang="en">MLB on MLB.TV/Apple TV</sub-title>
-    <desc lang="en">CIN @ MIL (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Apple TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
   <programme start="20260912000000 +0000" stop="20260912030000 +0000" channel="sports-daily-guide">
     <title lang="en">MIZ @ KU</title>
     <sub-title lang="en">NCAA Football on FOX</sub-title>
@@ -157,79 +57,19 @@
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
-  <programme start="20260912001000 +0000" stop="20260912031000 +0000" channel="sports-daily-guide">
-    <title lang="en">CLE @ MIN</title>
-    <sub-title lang="en">MLB on MLB.TV/CLEGuardians.TV</sub-title>
-    <desc lang="en">CLE @ MIN (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>CLEGuardians.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260912001500 +0000" stop="20260912031500 +0000" channel="sports-daily-guide">
-    <title lang="en">CHW @ STL</title>
-    <sub-title lang="en">MLB on MLB.TV/Cardinals.TV</sub-title>
-    <desc lang="en">CHW @ STL (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Cardinals.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260912014000 +0000" stop="20260912044000 +0000" channel="sports-daily-guide">
-    <title lang="en">SEA @ ATH</title>
-    <sub-title lang="en">MLB on MLB.TV/NBC Sports CA</sub-title>
-    <desc lang="en">SEA @ ATH (MLB) - Final/10</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>NBC Sports CA</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260912014000 +0000" stop="20260912044000 +0000" channel="sports-daily-guide">
-    <title lang="en">TEX @ ARI</title>
-    <sub-title lang="en">MLB on MLB.TV/DBACKS.TV</sub-title>
-    <desc lang="en">TEX @ ARI (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>DBACKS.TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260912021500 +0000" stop="20260912051500 +0000" channel="sports-daily-guide">
-    <title lang="en">SD @ SF</title>
-    <sub-title lang="en">MLB on MLB.TV/Apple TV</sub-title>
-    <desc lang="en">SD @ SF (MLB) - Final</desc>
-    <credits>
-      <presenter>MLB.TV</presenter>
-      <presenter>Apple TV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
   <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="sports-daily-guide">
     <title lang="en">HOW @ IU</title>
     <sub-title lang="en">NCAA Football on BTN</sub-title>
-    <desc lang="en">HOW @ IU (NCAA Football) - 9/12 - 12:00 PM EDT</desc>
+    <desc lang="en">HOW @ IU (NCAA Football) - Final</desc>
     <credits>
       <presenter>BTN</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
   <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="sports-daily-guide">
-    <title lang="en">ORE @ OKST</title>
-    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
-    <desc lang="en">ORE @ OKST (NCAA Football) - 9/12 - 12:00 PM EDT</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-      <presenter>Disney+</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="sports-daily-guide">
     <title lang="en">ASU @ TA&amp;M</title>
     <sub-title lang="en">NCAA Football on ABC</sub-title>
-    <desc lang="en">ASU @ TA&amp;M (NCAA Football) - 9/12 - 12:00 PM EDT</desc>
+    <desc lang="en">ASU @ TA&amp;M (NCAA Football) - Final</desc>
     <credits>
       <presenter>ABC</presenter>
     </credits>
@@ -238,7 +78,7 @@
   <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="sports-daily-guide">
     <title lang="en">OU @ MICH</title>
     <sub-title lang="en">NCAA Football on FOX</sub-title>
-    <desc lang="en">OU @ MICH (NCAA Football) - 9/12 - 12:00 PM EDT</desc>
+    <desc lang="en">OU @ MICH (NCAA Football) - Final</desc>
     <credits>
       <presenter>FOX</presenter>
     </credits>
@@ -247,7 +87,7 @@
   <programme start="20260912160000 +0000" stop="20260912190000 +0000" channel="sports-daily-guide">
     <title lang="en">PSU @ TEM</title>
     <sub-title lang="en">NCAA Football on ESPN2</sub-title>
-    <desc lang="en">PSU @ TEM (NCAA Football) - 9/12 - 12:00 PM EDT</desc>
+    <desc lang="en">PSU @ TEM (NCAA Football) - Final</desc>
     <credits>
       <presenter>ESPN2</presenter>
     </credits>
@@ -256,16 +96,66 @@
   <programme start="20260912164500 +0000" stop="20260912194500 +0000" channel="sports-daily-guide">
     <title lang="en">WKU @ UGA</title>
     <sub-title lang="en">NCAA Football on SEC Network</sub-title>
-    <desc lang="en">WKU @ UGA (NCAA Football) - 9/12 - 12:45 PM EDT</desc>
+    <desc lang="en">WKU @ UGA (NCAA Football) - Final</desc>
     <credits>
       <presenter>SEC Network</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
+  <programme start="20260912171000 +0000" stop="20260912201000 +0000" channel="sports-daily-guide">
+    <title lang="en">COL @ DET</title>
+    <sub-title lang="en">MLB on MLB.TV/Rockies.TV</sub-title>
+    <desc lang="en">COL @ DET (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>Rockies.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912173000 +0000" stop="20260912203000 +0000" channel="sports-daily-guide">
+    <title lang="en">ORE @ OKST</title>
+    <sub-title lang="en">NCAA Football on ESPNEWS/Disney+</sub-title>
+    <desc lang="en">ORE @ OKST (NCAA Football) - Final</desc>
+    <credits>
+      <presenter>ESPNEWS</presenter>
+      <presenter>Disney+</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20260912173500 +0000" stop="20260912203500 +0000" channel="sports-daily-guide">
+    <title lang="en">NYM @ NYY</title>
+    <sub-title lang="en">MLB on MLB.TV/MLB Net</sub-title>
+    <desc lang="en">NYM @ NYY (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>MLB Net</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912182000 +0000" stop="20260912212000 +0000" channel="sports-daily-guide">
+    <title lang="en">PIT @ CHC</title>
+    <sub-title lang="en">MLB on MLB.TV/Marquee Sports Net</sub-title>
+    <desc lang="en">PIT @ CHC (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>Marquee Sports Net</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912190700 +0000" stop="20260912220700 +0000" channel="sports-daily-guide">
+    <title lang="en">BAL @ TOR</title>
+    <sub-title lang="en">MLB on MLB.TV/MASN</sub-title>
+    <desc lang="en">BAL @ TOR (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>MASN</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
   <programme start="20260912193000 +0000" stop="20260912223000 +0000" channel="sports-daily-guide">
     <title lang="en">RICE @ ND</title>
     <sub-title lang="en">NCAA Football on NBC</sub-title>
-    <desc lang="en">RICE @ ND (NCAA Football) - 9/12 - 3:30 PM EDT</desc>
+    <desc lang="en">RICE @ ND (NCAA Football) - Final</desc>
     <credits>
       <presenter>NBC</presenter>
     </credits>
@@ -274,7 +164,7 @@
   <programme start="20260912193000 +0000" stop="20260912223000 +0000" channel="sports-daily-guide">
     <title lang="en">ALA @ UK</title>
     <sub-title lang="en">NCAA Football on ABC/Disney+</sub-title>
-    <desc lang="en">ALA @ UK (NCAA Football) - 9/12 - 3:30 PM EDT</desc>
+    <desc lang="en">ALA @ UK (NCAA Football) - Final</desc>
     <credits>
       <presenter>ABC</presenter>
       <presenter>Disney+</presenter>
@@ -284,7 +174,7 @@
   <programme start="20260912193000 +0000" stop="20260912223000 +0000" channel="sports-daily-guide">
     <title lang="en">ARIZ @ BYU</title>
     <sub-title lang="en">NCAA Football on FOX</sub-title>
-    <desc lang="en">ARIZ @ BYU (NCAA Football) - 9/12 - 3:30 PM EDT</desc>
+    <desc lang="en">ARIZ @ BYU (NCAA Football) - Final</desc>
     <credits>
       <presenter>FOX</presenter>
     </credits>
@@ -293,7 +183,7 @@
   <programme start="20260912193000 +0000" stop="20260912223000 +0000" channel="sports-daily-guide">
     <title lang="en">USU @ WASH</title>
     <sub-title lang="en">NCAA Football on BTN</sub-title>
-    <desc lang="en">USU @ WASH (NCAA Football) - 9/12 - 3:30 PM EDT</desc>
+    <desc lang="en">USU @ WASH (NCAA Football) - Final</desc>
     <credits>
       <presenter>BTN</presenter>
     </credits>
@@ -302,16 +192,76 @@
   <programme start="20260912200000 +0000" stop="20260912230000 +0000" channel="sports-daily-guide">
     <title lang="en">UCD @ SMU</title>
     <sub-title lang="en">NCAA Football on ACCNX</sub-title>
-    <desc lang="en">UCD @ SMU (NCAA Football) - 9/12 - 4:00 PM EDT</desc>
+    <desc lang="en">UCD @ SMU (NCAA Football) - Final</desc>
     <credits>
       <presenter>ACCNX</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
+  <programme start="20260912200500 +0000" stop="20260912230500 +0000" channel="sports-daily-guide">
+    <title lang="en">LAA @ WSH</title>
+    <sub-title lang="en">MLB on MLB.TV/Nationals.TV</sub-title>
+    <desc lang="en">LAA @ WSH (MLB) - Final/10</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>Nationals.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912200500 +0000" stop="20260912230500 +0000" channel="sports-daily-guide">
+    <title lang="en">SD @ SF</title>
+    <sub-title lang="en">MLB on MLB.TV/NBC Sports BA</sub-title>
+    <desc lang="en">SD @ SF (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>NBC Sports BA</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912201000 +0000" stop="20260912231000 +0000" channel="sports-daily-guide">
+    <title lang="en">KC @ BOS</title>
+    <sub-title lang="en">MLB on MLB.TV/Royals.TV</sub-title>
+    <desc lang="en">KC @ BOS (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>Royals.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912201000 +0000" stop="20260912231000 +0000" channel="sports-daily-guide">
+    <title lang="en">LAD @ MIA</title>
+    <sub-title lang="en">MLB on MLB.TV/SportsNet LA</sub-title>
+    <desc lang="en">LAD @ MIA (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>SportsNet LA</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912201000 +0000" stop="20260912231000 +0000" channel="sports-daily-guide">
+    <title lang="en">CLE @ MIN</title>
+    <sub-title lang="en">MLB on MLB.TV/CLEGuardians.TV</sub-title>
+    <desc lang="en">CLE @ MIN (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>CLEGuardians.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912221000 +0000" stop="20260913011000 +0000" channel="sports-daily-guide">
+    <title lang="en">HOU @ TB</title>
+    <sub-title lang="en">MLB on MLB.TV/Rays.TV</sub-title>
+    <desc lang="en">HOU @ TB (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>Rays.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
   <programme start="20260912230000 +0000" stop="20260913020000 +0000" channel="sports-daily-guide">
     <title lang="en">TENN @ GT</title>
     <sub-title lang="en">NCAA Football on ESPN</sub-title>
-    <desc lang="en">TENN @ GT (NCAA Football) - 9/12 - 7:00 PM EDT</desc>
+    <desc lang="en">TENN @ GT (NCAA Football) - Final</desc>
     <credits>
       <presenter>ESPN</presenter>
     </credits>
@@ -320,16 +270,46 @@
   <programme start="20260912230000 +0000" stop="20260913020000 +0000" channel="sports-daily-guide">
     <title lang="en">SOU @ HOU</title>
     <sub-title lang="en">NCAA Football on ESPN+</sub-title>
-    <desc lang="en">SOU @ HOU (NCAA Football) - 9/12 - 7:00 PM EDT</desc>
+    <desc lang="en">SOU @ HOU (NCAA Football) - Final</desc>
     <credits>
       <presenter>ESPN+</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
+  <programme start="20260912231000 +0000" stop="20260913021000 +0000" channel="sports-daily-guide">
+    <title lang="en">CIN @ MIL</title>
+    <sub-title lang="en">MLB on ESPN Unlmtd/MLB.TV</sub-title>
+    <desc lang="en">CIN @ MIL (MLB) - Final</desc>
+    <credits>
+      <presenter>ESPN Unlmtd</presenter>
+      <presenter>MLB.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912231500 +0000" stop="20260913021500 +0000" channel="sports-daily-guide">
+    <title lang="en">PHI @ ATL</title>
+    <sub-title lang="en">MLB on MLB.TV/BravesVision</sub-title>
+    <desc lang="en">PHI @ ATL (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>BravesVision</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
+  <programme start="20260912231500 +0000" stop="20260913021500 +0000" channel="sports-daily-guide">
+    <title lang="en">CHW @ STL</title>
+    <sub-title lang="en">MLB on MLB.TV/Cardinals.TV</sub-title>
+    <desc lang="en">CHW @ STL (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>Cardinals.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">RBNY @ CLB</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">RBNY @ CLB (MLS) - Scheduled</desc>
+    <desc lang="en">RBNY @ CLB (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -338,7 +318,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">ATL @ DC</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">ATL @ DC (MLS) - Scheduled</desc>
+    <desc lang="en">ATL @ DC (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -347,7 +327,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">CLT @ CIN</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">CLT @ CIN (MLS) - Scheduled</desc>
+    <desc lang="en">CLT @ CIN (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -356,7 +336,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">NSH @ MIA</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">NSH @ MIA (MLS) - Scheduled</desc>
+    <desc lang="en">NSH @ MIA (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -365,7 +345,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">TOR @ ORL</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">TOR @ ORL (MLS) - Scheduled</desc>
+    <desc lang="en">TOR @ ORL (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -374,7 +354,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">OSU @ TEX</title>
     <sub-title lang="en">NCAA Football on ABC</sub-title>
-    <desc lang="en">OSU @ TEX (NCAA Football) - 9/12 - 7:30 PM EDT</desc>
+    <desc lang="en">OSU @ TEX (NCAA Football) - Final</desc>
     <credits>
       <presenter>ABC</presenter>
     </credits>
@@ -383,7 +363,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">LT @ LSU</title>
     <sub-title lang="en">NCAA Football on SECN+</sub-title>
-    <desc lang="en">LT @ LSU (NCAA Football) - 9/12 - 7:30 PM EDT</desc>
+    <desc lang="en">LT @ LSU (NCAA Football) - Final</desc>
     <credits>
       <presenter>SECN+</presenter>
     </credits>
@@ -392,7 +372,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">TTU @ ORST</title>
     <sub-title lang="en">NCAA Football on CBS</sub-title>
-    <desc lang="en">TTU @ ORST (NCAA Football) - 9/12 - 7:30 PM EDT</desc>
+    <desc lang="en">TTU @ ORST (NCAA Football) - Final</desc>
     <credits>
       <presenter>CBS</presenter>
     </credits>
@@ -401,7 +381,7 @@
   <programme start="20260912233000 +0000" stop="20260913023000 +0000" channel="sports-daily-guide">
     <title lang="en">ISU @ IOWA</title>
     <sub-title lang="en">NCAA Football on NBC</sub-title>
-    <desc lang="en">ISU @ IOWA (NCAA Football) - 9/12 - 7:30 PM EDT</desc>
+    <desc lang="en">ISU @ IOWA (NCAA Football) - Final</desc>
     <credits>
       <presenter>NBC</presenter>
     </credits>
@@ -410,16 +390,26 @@
   <programme start="20260912234500 +0000" stop="20260913024500 +0000" channel="sports-daily-guide">
     <title lang="en">CLT @ MISS</title>
     <sub-title lang="en">NCAA Football on ESPN2</sub-title>
-    <desc lang="en">CLT @ MISS (NCAA Football) - 9/12 - 7:45 PM EDT</desc>
+    <desc lang="en">CLT @ MISS (NCAA Football) - Final</desc>
     <credits>
       <presenter>ESPN2</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
+  <programme start="20260913001000 +0000" stop="20260913031000 +0000" channel="sports-daily-guide">
+    <title lang="en">TEX @ ARI</title>
+    <sub-title lang="en">MLB on MLB.TV/DBACKS.TV</sub-title>
+    <desc lang="en">TEX @ ARI (MLB) - Final</desc>
+    <credits>
+      <presenter>MLB.TV</presenter>
+      <presenter>DBACKS.TV</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
   <programme start="20260913003000 +0000" stop="20260913033000 +0000" channel="sports-daily-guide">
     <title lang="en">POR @ DAL</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">POR @ DAL (MLS) - Scheduled</desc>
+    <desc lang="en">POR @ DAL (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -428,7 +418,7 @@
   <programme start="20260913003000 +0000" stop="20260913033000 +0000" channel="sports-daily-guide">
     <title lang="en">LAFC @ SKC</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">LAFC @ SKC (MLS) - Scheduled</desc>
+    <desc lang="en">LAFC @ SKC (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -437,7 +427,7 @@
   <programme start="20260913003000 +0000" stop="20260913033000 +0000" channel="sports-daily-guide">
     <title lang="en">MIN @ STL</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">MIN @ STL (MLS) - Scheduled</desc>
+    <desc lang="en">MIN @ STL (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -446,7 +436,7 @@
   <programme start="20260913013000 +0000" stop="20260913043000 +0000" channel="sports-daily-guide">
     <title lang="en">MTL @ COL</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">MTL @ COL (MLS) - Scheduled</desc>
+    <desc lang="en">MTL @ COL (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -455,25 +445,26 @@
   <programme start="20260913013000 +0000" stop="20260913043000 +0000" channel="sports-daily-guide">
     <title lang="en">NYC @ RSL</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">NYC @ RSL (MLS) - Scheduled</desc>
+    <desc lang="en">NYC @ RSL (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
     <category lang="en">MLS</category>
   </programme>
-  <programme start="20260913021500 +0000" stop="20260913051500 +0000" channel="sports-daily-guide">
-    <title lang="en">ARK @ UTAH</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
-    <desc lang="en">ARK @ UTAH (NCAA Football) - 9/12 - 10:15 PM EDT</desc>
+  <programme start="20260913014000 +0000" stop="20260913044000 +0000" channel="sports-daily-guide">
+    <title lang="en">SEA @ ATH</title>
+    <sub-title lang="en">MLB on MLB.TV/NBC Sports CA</sub-title>
+    <desc lang="en">SEA @ ATH (MLB) - Final</desc>
     <credits>
-      <presenter>ESPN</presenter>
+      <presenter>MLB.TV</presenter>
+      <presenter>NBC Sports CA</presenter>
     </credits>
-    <category lang="en">NCAA Football</category>
+    <category lang="en">MLB</category>
   </programme>
   <programme start="20260913023000 +0000" stop="20260913053000 +0000" channel="sports-daily-guide">
     <title lang="en">SEA @ LA</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">SEA @ LA (MLS) - Scheduled</desc>
+    <desc lang="en">SEA @ LA (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
@@ -482,16 +473,25 @@
   <programme start="20260913023000 +0000" stop="20260913053000 +0000" channel="sports-daily-guide">
     <title lang="en">HOU @ SJ</title>
     <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">HOU @ SJ (MLS) - Scheduled</desc>
+    <desc lang="en">HOU @ SJ (MLS) - FT</desc>
     <credits>
       <presenter>Apple TV</presenter>
     </credits>
     <category lang="en">MLS</category>
   </programme>
+  <programme start="20260913023000 +0000" stop="20260913053000 +0000" channel="sports-daily-guide">
+    <title lang="en">ARK @ UTAH</title>
+    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <desc lang="en">ARK @ UTAH (NCAA Football) - Final</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
   <programme start="20260913030000 +0000" stop="20260913060000 +0000" channel="sports-daily-guide">
     <title lang="en">UL @ USC</title>
     <sub-title lang="en">NCAA Football on BTN</sub-title>
-    <desc lang="en">UL @ USC (NCAA Football) - 9/12 - 11:00 PM EDT</desc>
+    <desc lang="en">UL @ USC (NCAA Football) - Final</desc>
     <credits>
       <presenter>BTN</presenter>
     </credits>
