@@ -113,15 +113,6 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260927180000 +0000" stop="20260927210000 +0000" channel="sports-daily-guide">
-    <title lang="en">NY @ MIN</title>
-    <sub-title lang="en">WNBA on ABC</sub-title>
-    <desc lang="en">NY @ MIN (WNBA) - Final</desc>
-    <credits>
-      <presenter>ABC</presenter>
-    </credits>
-    <category lang="en">WNBA</category>
-  </programme>
   <programme start="20260927183000 +0000" stop="20260927213000 +0000" channel="sports-daily-guide">
     <title lang="en">TB @ PHI</title>
     <sub-title lang="en">MLB on MLB.TV/Rays.TV</sub-title>
@@ -252,15 +243,6 @@
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20260927200000 +0000" stop="20260927230000 +0000" channel="sports-daily-guide">
-    <title lang="en">IND @ LV</title>
-    <sub-title lang="en">WNBA on ABC</sub-title>
-    <desc lang="en">IND @ LV (WNBA) - Final</desc>
-    <credits>
-      <presenter>ABC</presenter>
-    </credits>
-    <category lang="en">WNBA</category>
-  </programme>
   <programme start="20260927200500 +0000" stop="20260927230500 +0000" channel="sports-daily-guide">
     <title lang="en">ARI @ SF</title>
     <sub-title lang="en">NFL on FOX</sub-title>
@@ -297,15 +279,6 @@
     </credits>
     <category lang="en">NFL</category>
   </programme>
-  <programme start="20260927230000 +0000" stop="20260928020000 +0000" channel="sports-daily-guide">
-    <title lang="en">WSH @ ATL</title>
-    <sub-title lang="en">WNBA on Prime Video</sub-title>
-    <desc lang="en">WSH @ ATL (WNBA) - Final</desc>
-    <credits>
-      <presenter>Prime Video</presenter>
-    </credits>
-    <category lang="en">WNBA</category>
-  </programme>
   <programme start="20260928002000 +0000" stop="20260928032000 +0000" channel="sports-daily-guide">
     <title lang="en">LAR @ DEN</title>
     <sub-title lang="en">NFL on NBC</sub-title>
@@ -315,20 +288,10 @@
     </credits>
     <category lang="en">NFL</category>
   </programme>
-  <programme start="20260928010000 +0000" stop="20260928040000 +0000" channel="sports-daily-guide">
-    <title lang="en">DAL @ GS</title>
-    <sub-title lang="en">WNBA on USA Net/CNBC</sub-title>
-    <desc lang="en">DAL @ GS (WNBA) - Final</desc>
-    <credits>
-      <presenter>USA Net</presenter>
-      <presenter>CNBC</presenter>
-    </credits>
-    <category lang="en">WNBA</category>
-  </programme>
   <programme start="20260929001500 +0000" stop="20260929031500 +0000" channel="sports-daily-guide">
     <title lang="en">PHI @ CHI</title>
     <sub-title lang="en">NFL on ESPN/ABC</sub-title>
-    <desc lang="en">PHI @ CHI (NFL) - 9/28 - 8:15 PM EDT</desc>
+    <desc lang="en">PHI @ CHI (NFL) - Final</desc>
     <credits>
       <presenter>ESPN</presenter>
       <presenter>ABC</presenter>
@@ -344,10 +307,22 @@
     </credits>
     <category lang="en">NHL</category>
   </programme>
+  <programme start="20260929223000 +0000" stop="20260930013000 +0000" channel="sports-daily-guide">
+    <title lang="en">LV @ IND</title>
+    <sub-title lang="en">WNBA on Prime Video</sub-title>
+    <desc lang="en">LV @ IND (WNBA) - 9/29 - 6:30 PM EDT</desc>
+    <credits>
+      <presenter>Prime Video</presenter>
+    </credits>
+    <category lang="en">WNBA</category>
+  </programme>
   <programme start="20260929230000 +0000" stop="20260930020000 +0000" channel="sports-daily-guide">
     <title lang="en">MTL @ TOR</title>
-    <sub-title lang="en">NHL</sub-title>
+    <sub-title lang="en">NHL on ESPN+</sub-title>
     <desc lang="en">MTL @ TOR (NHL) - 9/29 - 7:00 PM EDT</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+    </credits>
     <category lang="en">NHL</category>
   </programme>
   <programme start="20260930000000 +0000" stop="20260930030000 +0000" channel="sports-daily-guide">
@@ -359,10 +334,23 @@
     </credits>
     <category lang="en">NHL</category>
   </programme>
+  <programme start="20260930003000 +0000" stop="20260930033000 +0000" channel="sports-daily-guide">
+    <title lang="en">MIN @ NY</title>
+    <sub-title lang="en">WNBA on USA Net/CNBC</sub-title>
+    <desc lang="en">MIN @ NY (WNBA) - 9/29 - 8:30 PM EDT</desc>
+    <credits>
+      <presenter>USA Net</presenter>
+      <presenter>CNBC</presenter>
+    </credits>
+    <category lang="en">WNBA</category>
+  </programme>
   <programme start="20260930020000 +0000" stop="20260930050000 +0000" channel="sports-daily-guide">
     <title lang="en">VAN @ EDM</title>
-    <sub-title lang="en">NHL</sub-title>
+    <sub-title lang="en">NHL on ESPN+</sub-title>
     <desc lang="en">VAN @ EDM (NHL) - 9/29 - 10:00 PM EDT</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+    </credits>
     <category lang="en">NHL</category>
   </programme>
   <programme start="20260930023000 +0000" stop="20260930053000 +0000" channel="sports-daily-guide">
@@ -385,10 +373,11 @@
   </programme>
   <programme start="20261003160000 +0000" stop="20261003190000 +0000" channel="sports-daily-guide">
     <title lang="en">ND @ UNC</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
     <desc lang="en">ND @ UNC (NCAA Football) - 10/3 - 12:00 PM EDT</desc>
     <credits>
       <presenter>ESPN</presenter>
+      <presenter>Disney+</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
@@ -448,8 +437,11 @@
   </programme>
   <programme start="20261003193000 +0000" stop="20261003223000 +0000" channel="sports-daily-guide">
     <title lang="en">AUB @ TENN</title>
-    <sub-title lang="en">NCAA Football</sub-title>
+    <sub-title lang="en">NCAA Football on ESPN</sub-title>
     <desc lang="en">AUB @ TENN (NCAA Football) - 10/3 - 3:30 PM EDT</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
     <category lang="en">NCAA Football</category>
   </programme>
   <programme start="20261003201500 +0000" stop="20261003231500 +0000" channel="sports-daily-guide">
@@ -469,10 +461,11 @@
   </programme>
   <programme start="20261003230000 +0000" stop="20261004020000 +0000" channel="sports-daily-guide">
     <title lang="en">BYU @ TCU</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
     <desc lang="en">BYU @ TCU (NCAA Football) - 10/3 - 7:00 PM EDT</desc>
     <credits>
       <presenter>ESPN</presenter>
+      <presenter>Disney+</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
@@ -540,6 +533,12 @@
     <title lang="en">HPU VS LIB</title>
     <sub-title lang="en">NCAA Basketball</sub-title>
     <desc lang="en">HPU VS LIB (NCAA Basketball) - 11/1 - 11:59 PM EST</desc>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102080000 +0000" channel="sports-daily-guide">
+    <title lang="en">LIB VS HPU</title>
+    <sub-title lang="en">NCAA Basketball</sub-title>
+    <desc lang="en">LIB VS HPU (NCAA Basketball) - 11/2 - 12:00 AM EST</desc>
     <category lang="en">NCAA Basketball</category>
   </programme>
 </tv>
