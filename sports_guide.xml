@@ -3,99 +3,119 @@
   <channel id="sports-daily-guide">
     <display-name>Daily US Sports Schedule</display-name>
   </channel>
-  <programme start="20260930180000 +0000" stop="20260930210000 +0000" channel="sports-daily-guide">
-    <title lang="en">PHI @ ATL</title>
-    <sub-title lang="en">MLB on NBC</sub-title>
-    <desc lang="en">PHI @ ATL (MLB) - Final/10</desc>
-    <credits>
-      <presenter>NBC</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260930210000 +0000" stop="20261001000000 +0000" channel="sports-daily-guide">
-    <title lang="en">CHW @ HOU</title>
-    <sub-title lang="en">MLB on Peacock/NBCSN</sub-title>
-    <desc lang="en">CHW @ HOU (MLB) - Final</desc>
-    <credits>
-      <presenter>Peacock</presenter>
-      <presenter>NBCSN</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001023000 +0000" channel="sports-daily-guide">
-    <title lang="en">PIT @ PHI</title>
-    <sub-title lang="en">NHL on TNT/truTV</sub-title>
-    <desc lang="en">PIT @ PHI (NHL) - Final</desc>
-    <credits>
-      <presenter>TNT</presenter>
-      <presenter>truTV</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20260930233000 +0000" stop="20261001023000 +0000" channel="sports-daily-guide">
-    <title lang="en">NYI @ TOR</title>
-    <sub-title lang="en">NHL on ESPN+/MSGSN</sub-title>
-    <desc lang="en">NYI @ TOR (NHL) - Final</desc>
+  <programme start="20261001230000 +0000" stop="20261002020000 +0000" channel="sports-daily-guide">
+    <title lang="en">BUF @ CBJ</title>
+    <sub-title lang="en">NHL on ESPN+/MSGB</sub-title>
+    <desc lang="en">BUF @ CBJ (NHL) - Final</desc>
     <credits>
       <presenter>ESPN+</presenter>
-      <presenter>MSGSN</presenter>
+      <presenter>MSGB</presenter>
     </credits>
     <category lang="en">NHL</category>
   </programme>
-  <programme start="20260930233000 +0000" stop="20261001023000 +0000" channel="sports-daily-guide">
-    <title lang="en">STL @ RBNY</title>
-    <sub-title lang="en">MLS on Apple TV</sub-title>
-    <desc lang="en">STL @ RBNY (MLS) - FT</desc>
+  <programme start="20261001230000 +0000" stop="20261002020000 +0000" channel="sports-daily-guide">
+    <title lang="en">PHI @ NJ</title>
+    <sub-title lang="en">NHL on Disney+/ESPN+</sub-title>
+    <desc lang="en">PHI @ NJ (NHL) - Final/OT</desc>
     <credits>
-      <presenter>Apple TV</presenter>
+      <presenter>Disney+</presenter>
+      <presenter>ESPN+</presenter>
     </credits>
-    <category lang="en">MLS</category>
+    <category lang="en">NHL</category>
   </programme>
-  <programme start="20261001000000 +0000" stop="20261001030000 +0000" channel="sports-daily-guide">
-    <title lang="en">BOS @ NYY</title>
-    <sub-title lang="en">MLB on NBC</sub-title>
-    <desc lang="en">BOS @ NYY (MLB) - Final</desc>
+  <programme start="20261001230000 +0000" stop="20261002020000 +0000" channel="sports-daily-guide">
+    <title lang="en">TB @ NYR</title>
+    <sub-title lang="en">NHL on ESPN+/MSG</sub-title>
+    <desc lang="en">TB @ NYR (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>MSG</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261002000000 +0000" stop="20261002030000 +0000" channel="sports-daily-guide">
+    <title lang="en">PHI @ ATL</title>
+    <sub-title lang="en">MLB on NBC/Peacock</sub-title>
+    <desc lang="en">PHI @ ATL (MLB) - Final</desc>
     <credits>
       <presenter>NBC</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20261001020000 +0000" stop="20261001050000 +0000" channel="sports-daily-guide">
-    <title lang="en">CHC @ SD</title>
-    <sub-title lang="en">MLB on Peacock/NBCSN</sub-title>
-    <desc lang="en">CHC @ SD (MLB) - Final</desc>
-    <credits>
       <presenter>Peacock</presenter>
-      <presenter>NBCSN</presenter>
     </credits>
     <category lang="en">MLB</category>
   </programme>
-  <programme start="20261001020000 +0000" stop="20261001050000 +0000" channel="sports-daily-guide">
-    <title lang="en">LA @ COL</title>
-    <sub-title lang="en">NHL on TNT/truTV</sub-title>
-    <desc lang="en">LA @ COL (NHL) - Final</desc>
+  <programme start="20261002000000 +0000" stop="20261002030000 +0000" channel="sports-daily-guide">
+    <title lang="en">MIN @ NSH</title>
+    <sub-title lang="en">NHL on ESPN+/Scripps Sports</sub-title>
+    <desc lang="en">MIN @ NSH (NHL) - Final</desc>
     <credits>
-      <presenter>TNT</presenter>
-      <presenter>truTV</presenter>
+      <presenter>ESPN+</presenter>
+      <presenter>Scripps Sports</presenter>
     </credits>
     <category lang="en">NHL</category>
   </programme>
   <programme start="20261002001500 +0000" stop="20261002031500 +0000" channel="sports-daily-guide">
     <title lang="en">PIT @ CLE</title>
     <sub-title lang="en">NFL on Prime Video</sub-title>
-    <desc lang="en">PIT @ CLE (NFL) - 10/1 - 8:15 PM EDT</desc>
+    <desc lang="en">PIT @ CLE (NFL) - Final</desc>
     <credits>
       <presenter>Prime Video</presenter>
     </credits>
     <category lang="en">NFL</category>
   </programme>
   <programme start="20261002010000 +0000" stop="20261002040000 +0000" channel="sports-daily-guide">
-    <title lang="en">IND @ LV</title>
-    <sub-title lang="en">WNBA on USA Net/CNBC</sub-title>
-    <desc lang="en">IND @ LV (WNBA) - 10/1 - 9:00 PM EDT</desc>
+    <title lang="en">SEA @ CGY</title>
+    <sub-title lang="en">NHL on ESPN+/KONG</sub-title>
+    <desc lang="en">SEA @ CGY (NHL) - Final</desc>
     <credits>
-      <presenter>USA Net</presenter>
-      <presenter>CNBC</presenter>
+      <presenter>ESPN+</presenter>
+      <presenter>KONG</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261002013000 +0000" stop="20261002043000 +0000" channel="sports-daily-guide">
+    <title lang="en">CHI @ UTA</title>
+    <sub-title lang="en">NHL on Disney+/ESPN+</sub-title>
+    <desc lang="en">CHI @ UTA (NHL) - Final</desc>
+    <credits>
+      <presenter>Disney+</presenter>
+      <presenter>ESPN+</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261002013000 +0000" stop="20261002043000 +0000" channel="sports-daily-guide">
+    <title lang="en">SKC @ SEA</title>
+    <sub-title lang="en">MLS on Apple TV</sub-title>
+    <desc lang="en">SKC @ SEA (MLS) - FT</desc>
+    <credits>
+      <presenter>Apple TV</presenter>
+    </credits>
+    <category lang="en">MLS</category>
+  </programme>
+  <programme start="20261002020000 +0000" stop="20261002050000 +0000" channel="sports-daily-guide">
+    <title lang="en">FLA @ SJ</title>
+    <sub-title lang="en">NHL on ESPN+/Scripps Sports</sub-title>
+    <desc lang="en">FLA @ SJ (NHL) - Final/OT</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>Scripps Sports</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261002020000 +0000" stop="20261002050000 +0000" channel="sports-daily-guide">
+    <title lang="en">EDM @ VAN</title>
+    <sub-title lang="en">NHL on ESPN+</sub-title>
+    <desc lang="en">EDM @ VAN (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261003010000 +0000" stop="20261003040000 +0000" channel="sports-daily-guide">
+    <title lang="en">DAL @ GS</title>
+    <sub-title lang="en">WNBA on ESPN2</sub-title>
+    <desc lang="en">DAL @ GS (WNBA) - 10/2 - 9:00 PM EDT</desc>
+    <credits>
+      <presenter>ESPN2</presenter>
     </credits>
     <category lang="en">WNBA</category>
   </programme>
