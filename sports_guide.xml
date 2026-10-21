@@ -3,197 +3,10 @@
   <channel id="sports-daily-guide">
     <display-name>Daily US Sports Schedule</display-name>
   </channel>
-  <programme start="20261016001500 +0000" stop="20261016031500 +0000" channel="sports-daily-guide">
-    <title lang="en">SEA @ DEN</title>
-    <sub-title lang="en">NFL on Prime Video</sub-title>
-    <desc lang="en">SEA @ DEN (NFL) - Final/OT</desc>
-    <credits>
-      <presenter>Prime Video</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018133000 +0000" stop="20261018163000 +0000" channel="sports-daily-guide">
-    <title lang="en">HOU VS JAX</title>
-    <sub-title lang="en">NFL on NFL Net</sub-title>
-    <desc lang="en">HOU VS JAX (NFL) - Final</desc>
-    <credits>
-      <presenter>NFL Net</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="sports-daily-guide">
-    <title lang="en">CHI @ ATL</title>
-    <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">CHI @ ATL (NFL) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="sports-daily-guide">
-    <title lang="en">BAL @ CLE</title>
-    <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">BAL @ CLE (NFL) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="sports-daily-guide">
-    <title lang="en">TEN @ IND</title>
-    <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">TEN @ IND (NFL) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="sports-daily-guide">
-    <title lang="en">NYJ @ NE</title>
-    <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">NYJ @ NE (NFL) - Final</desc>
-    <credits>
-      <presenter>CBS</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="sports-daily-guide">
-    <title lang="en">NO @ NYG</title>
-    <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">NO @ NYG (NFL) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="sports-daily-guide">
-    <title lang="en">CAR @ PHI</title>
-    <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">CAR @ PHI (NFL) - Final</desc>
-    <credits>
-      <presenter>CBS</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018170000 +0000" stop="20261018200000 +0000" channel="sports-daily-guide">
-    <title lang="en">PIT @ TB</title>
-    <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">PIT @ TB (NFL) - Final/OT</desc>
-    <credits>
-      <presenter>CBS</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018200500 +0000" stop="20261018230500 +0000" channel="sports-daily-guide">
-    <title lang="en">ARI @ LAR</title>
-    <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">ARI @ LAR (NFL) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018202500 +0000" stop="20261018232500 +0000" channel="sports-daily-guide">
-    <title lang="en">LAC @ KC</title>
-    <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">LAC @ KC (NFL) - Final</desc>
-    <credits>
-      <presenter>CBS</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261018202500 +0000" stop="20261018232500 +0000" channel="sports-daily-guide">
-    <title lang="en">BUF @ LV</title>
-    <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">BUF @ LV (NFL) - Final</desc>
-    <credits>
-      <presenter>CBS</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261019002000 +0000" stop="20261019032000 +0000" channel="sports-daily-guide">
-    <title lang="en">DAL @ GB</title>
-    <sub-title lang="en">NFL on NBC</sub-title>
-    <desc lang="en">DAL @ GB (NFL) - Final</desc>
-    <credits>
-      <presenter>NBC</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261019230000 +0000" stop="20261020020000 +0000" channel="sports-daily-guide">
-    <title lang="en">ANA @ NYR</title>
-    <sub-title lang="en">NHL on ESPN+/MSG</sub-title>
-    <desc lang="en">ANA @ NYR (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>MSG</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261019230000 +0000" stop="20261020020000 +0000" channel="sports-daily-guide">
-    <title lang="en">COL @ PHI</title>
-    <sub-title lang="en">NHL on ESPN+/NBC Sports Phil</sub-title>
-    <desc lang="en">COL @ PHI (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>NBC Sports Phil</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261019233000 +0000" stop="20261020023000 +0000" channel="sports-daily-guide">
-    <title lang="en">SJ @ TOR</title>
-    <sub-title lang="en">NHL on ESPN+/NBC Sports BA</sub-title>
-    <desc lang="en">SJ @ TOR (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>NBC Sports BA</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261020000000 +0000" stop="20261020030000 +0000" channel="sports-daily-guide">
-    <title lang="en">CLE @ TB</title>
-    <sub-title lang="en">MLB on TBS/truTV</sub-title>
-    <desc lang="en">CLE @ TB (MLB) - Final</desc>
-    <credits>
-      <presenter>TBS</presenter>
-      <presenter>truTV</presenter>
-    </credits>
-    <category lang="en">MLB</category>
-  </programme>
-  <programme start="20261020000000 +0000" stop="20261020030000 +0000" channel="sports-daily-guide">
-    <title lang="en">ATL @ GS</title>
-    <sub-title lang="en">WNBA on USA Net/CNBC</sub-title>
-    <desc lang="en">ATL @ GS (WNBA) - Final</desc>
-    <credits>
-      <presenter>USA Net</presenter>
-      <presenter>CNBC</presenter>
-    </credits>
-    <category lang="en">WNBA</category>
-  </programme>
-  <programme start="20261020001500 +0000" stop="20261020031500 +0000" channel="sports-daily-guide">
-    <title lang="en">WSH @ SF</title>
-    <sub-title lang="en">NFL on ESPN/ABC</sub-title>
-    <desc lang="en">WSH @ SF (NFL) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-      <presenter>ABC</presenter>
-    </credits>
-    <category lang="en">NFL</category>
-  </programme>
-  <programme start="20261020010000 +0000" stop="20261020040000 +0000" channel="sports-daily-guide">
-    <title lang="en">PIT @ UTA</title>
-    <sub-title lang="en">NHL on ESPN+/Utah 16</sub-title>
-    <desc lang="en">PIT @ UTA (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>Utah 16</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
   <programme start="20261020190000 +0000" stop="20261020220000 +0000" channel="sports-daily-guide">
     <title lang="en">BOS @ DET</title>
     <sub-title lang="en">NBA on NBC</sub-title>
-    <desc lang="en">BOS @ DET (NBA) - 10/20 - 3:00 PM EDT</desc>
+    <desc lang="en">BOS @ DET (NBA) - Final</desc>
     <credits>
       <presenter>NBC</presenter>
     </credits>
@@ -202,20 +15,128 @@
   <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="sports-daily-guide">
     <title lang="en">PHI @ NY</title>
     <sub-title lang="en">NBA on NBC</sub-title>
-    <desc lang="en">PHI @ NY (NBA) - 10/20 - 7:00 PM EDT</desc>
+    <desc lang="en">PHI @ NY (NBA) - Final</desc>
     <credits>
       <presenter>NBC</presenter>
     </credits>
     <category lang="en">NBA</category>
   </programme>
-  <programme start="20261021013000 +0000" stop="20261021043000 +0000" channel="sports-daily-guide">
+  <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="sports-daily-guide">
+    <title lang="en">SJ @ MTL</title>
+    <sub-title lang="en">NHL on ESPN+/NBC Sports BA</sub-title>
+    <desc lang="en">SJ @ MTL (NHL) - Final/OT</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>NBC Sports BA</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="sports-daily-guide">
+    <title lang="en">COL @ NJ</title>
+    <sub-title lang="en">NHL on ESPN+/MSG</sub-title>
+    <desc lang="en">COL @ NJ (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>MSG</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="sports-daily-guide">
+    <title lang="en">ANA @ NYI</title>
+    <sub-title lang="en">NHL on ESPN+/MSGSN</sub-title>
+    <desc lang="en">ANA @ NYI (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>MSGSN</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="sports-daily-guide">
+    <title lang="en">LA @ WSH</title>
+    <sub-title lang="en">NHL on ESPN+/MNMT</sub-title>
+    <desc lang="en">LA @ WSH (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>MNMT</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261020230000 +0000" stop="20261021020000 +0000" channel="sports-daily-guide">
+    <title lang="en">TOR @ CBJ</title>
+    <sub-title lang="en">NHL on ESPN+/CBJNHL</sub-title>
+    <desc lang="en">TOR @ CBJ (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>CBJNHL</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021030000 +0000" channel="sports-daily-guide">
+    <title lang="en">WPG @ STL</title>
+    <sub-title lang="en">NHL on ESPN+/Blues App</sub-title>
+    <desc lang="en">WPG @ STL (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>Blues App</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261021000000 +0000" stop="20261021030000 +0000" channel="sports-daily-guide">
+    <title lang="en">BOS @ DAL</title>
+    <sub-title lang="en">NHL on ESPN</sub-title>
+    <desc lang="en">BOS @ DAL (NHL) - Final/OT</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261021010000 +0000" stop="20261021040000 +0000" channel="sports-daily-guide">
+    <title lang="en">MIN @ EDM</title>
+    <sub-title lang="en">NHL on ESPN+/MINNHL</sub-title>
+    <desc lang="en">MIN @ EDM (NHL) - Final/OT</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>MINNHL</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261021014000 +0000" stop="20261021044000 +0000" channel="sports-daily-guide">
+    <title lang="en">DET @ SEA</title>
+    <sub-title lang="en">NHL on ESPN+/DSN</sub-title>
+    <desc lang="en">DET @ SEA (NHL) - Final/SO</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>DSN</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261021015000 +0000" stop="20261021045000 +0000" channel="sports-daily-guide">
     <title lang="en">OKC @ SA</title>
     <sub-title lang="en">NBA on NBC</sub-title>
-    <desc lang="en">OKC @ SA (NBA) - 10/20 - 9:30 PM EDT</desc>
+    <desc lang="en">OKC @ SA (NBA) - Final</desc>
     <credits>
       <presenter>NBC</presenter>
     </credits>
     <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261021020000 +0000" stop="20261021050000 +0000" channel="sports-daily-guide">
+    <title lang="en">CAR @ VAN</title>
+    <sub-title lang="en">NHL on ESPN+/CARNHL</sub-title>
+    <desc lang="en">CAR @ VAN (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>CARNHL</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261021024500 +0000" stop="20261021054500 +0000" channel="sports-daily-guide">
+    <title lang="en">TB @ VGK</title>
+    <sub-title lang="en">NHL on ESPN</sub-title>
+    <desc lang="en">TB @ VGK (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NHL</category>
   </programme>
   <programme start="20261021230000 +0000" stop="20261022020000 +0000" channel="sports-daily-guide">
     <title lang="en">DC @ CIN</title>
@@ -226,12 +147,41 @@
     </credits>
     <category lang="en">MLS</category>
   </programme>
+  <programme start="20261022000000 +0000" stop="20261022030000 +0000" channel="sports-daily-guide">
+    <title lang="en">GS @ ATL</title>
+    <sub-title lang="en">WNBA on USA Net/CNBC</sub-title>
+    <desc lang="en">GS @ ATL (WNBA) - 10/21 - 8:00 PM EDT</desc>
+    <credits>
+      <presenter>USA Net</presenter>
+      <presenter>CNBC</presenter>
+    </credits>
+    <category lang="en">WNBA</category>
+  </programme>
+  <programme start="20261023001500 +0000" stop="20261023031500 +0000" channel="sports-daily-guide">
+    <title lang="en">NE @ CHI</title>
+    <sub-title lang="en">NFL on Prime Video</sub-title>
+    <desc lang="en">NE @ CHI (NFL) - 10/22 - 8:15 PM EDT</desc>
+    <credits>
+      <presenter>Prime Video</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261024000000 +0000" stop="20261024030000 +0000" channel="sports-daily-guide">
+    <title lang="en">TB @ MIL</title>
+    <sub-title lang="en">MLB on Fox</sub-title>
+    <desc lang="en">TB @ MIL (MLB) - 10/23 - 8:00 PM EDT</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">MLB</category>
+  </programme>
   <programme start="20261024160000 +0000" stop="20261024190000 +0000" channel="sports-daily-guide">
     <title lang="en">PITT @ MIA</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
     <desc lang="en">PITT @ MIA (NCAA Football) - 10/24 - 12:00 PM EDT</desc>
     <credits>
       <presenter>ESPN</presenter>
+      <presenter>Disney+</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
@@ -264,10 +214,11 @@
   </programme>
   <programme start="20261024160000 +0000" stop="20261024190000 +0000" channel="sports-daily-guide">
     <title lang="en">CAL @ SMU</title>
-    <sub-title lang="en">NCAA Football on CW</sub-title>
+    <sub-title lang="en">NCAA Football on CW/ESPN Unlmtd</sub-title>
     <desc lang="en">CAL @ SMU (NCAA Football) - 10/24 - 12:00 PM EDT</desc>
     <credits>
       <presenter>CW</presenter>
+      <presenter>ESPN Unlmtd</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
@@ -300,10 +251,11 @@
   </programme>
   <programme start="20261024193000 +0000" stop="20261024223000 +0000" channel="sports-daily-guide">
     <title lang="en">TENN @ SC</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
     <desc lang="en">TENN @ SC (NCAA Football) - 10/24 - 3:30 PM EDT</desc>
     <credits>
       <presenter>ESPN</presenter>
+      <presenter>Disney+</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
@@ -379,6 +331,124 @@
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
+  <programme start="20261025133000 +0000" stop="20261025163000 +0000" channel="sports-daily-guide">
+    <title lang="en">PIT VS NO</title>
+    <sub-title lang="en">NFL on NFL Net</sub-title>
+    <desc lang="en">PIT VS NO (NFL) - 10/25 - 9:30 AM EDT</desc>
+    <credits>
+      <presenter>NFL Net</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="sports-daily-guide">
+    <title lang="en">SF @ ATL</title>
+    <sub-title lang="en">NFL on Fox</sub-title>
+    <desc lang="en">SF @ ATL (NFL) - 10/25 - 1:00 PM EDT</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="sports-daily-guide">
+    <title lang="en">CLE @ TEN</title>
+    <sub-title lang="en">NFL on CBS</sub-title>
+    <desc lang="en">CLE @ TEN (NFL) - 10/25 - 1:00 PM EDT</desc>
+    <credits>
+      <presenter>CBS</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="sports-daily-guide">
+    <title lang="en">IND @ MIN</title>
+    <sub-title lang="en">NFL on CBS</sub-title>
+    <desc lang="en">IND @ MIN (NFL) - 10/25 - 1:00 PM EDT</desc>
+    <credits>
+      <presenter>CBS</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="sports-daily-guide">
+    <title lang="en">MIA @ NYJ</title>
+    <sub-title lang="en">NFL on CBS</sub-title>
+    <desc lang="en">MIA @ NYJ (NFL) - 10/25 - 1:00 PM EDT</desc>
+    <credits>
+      <presenter>CBS</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="sports-daily-guide">
+    <title lang="en">TB @ CAR</title>
+    <sub-title lang="en">NFL on Fox</sub-title>
+    <desc lang="en">TB @ CAR (NFL) - 10/25 - 1:00 PM EDT</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="sports-daily-guide">
+    <title lang="en">CIN @ BAL</title>
+    <sub-title lang="en">NFL on CBS</sub-title>
+    <desc lang="en">CIN @ BAL (NFL) - 10/25 - 1:00 PM EDT</desc>
+    <credits>
+      <presenter>CBS</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025170000 +0000" stop="20261025200000 +0000" channel="sports-daily-guide">
+    <title lang="en">NYG @ HOU</title>
+    <sub-title lang="en">NFL on Fox</sub-title>
+    <desc lang="en">NYG @ HOU (NFL) - 10/25 - 1:00 PM EDT</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025200500 +0000" stop="20261025230500 +0000" channel="sports-daily-guide">
+    <title lang="en">DEN @ ARI</title>
+    <sub-title lang="en">NFL on CBS</sub-title>
+    <desc lang="en">DEN @ ARI (NFL) - 10/25 - 4:05 PM EDT</desc>
+    <credits>
+      <presenter>CBS</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025202500 +0000" stop="20261025232500 +0000" channel="sports-daily-guide">
+    <title lang="en">GB @ DET</title>
+    <sub-title lang="en">NFL on Fox</sub-title>
+    <desc lang="en">GB @ DET (NFL) - 10/25 - 4:25 PM EDT</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261025202500 +0000" stop="20261025232500 +0000" channel="sports-daily-guide">
+    <title lang="en">LAR @ LV</title>
+    <sub-title lang="en">NFL on Fox</sub-title>
+    <desc lang="en">LAR @ LV (NFL) - 10/25 - 4:25 PM EDT</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261026002000 +0000" stop="20261026032000 +0000" channel="sports-daily-guide">
+    <title lang="en">KC @ SEA</title>
+    <sub-title lang="en">NFL on NBC</sub-title>
+    <desc lang="en">KC @ SEA (NFL) - 10/25 - 8:20 PM EDT</desc>
+    <credits>
+      <presenter>NBC</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261027001500 +0000" stop="20261027031500 +0000" channel="sports-daily-guide">
+    <title lang="en">DAL @ PHI</title>
+    <sub-title lang="en">NFL on ESPN/ABC</sub-title>
+    <desc lang="en">DAL @ PHI (NFL) - 10/26 - 8:15 PM EDT</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+      <presenter>ABC</presenter>
+    </credits>
+    <category lang="en">NFL</category>
+  </programme>
   <programme start="20261101143000 +0000" stop="20261101173000 +0000" channel="sports-daily-guide">
     <title lang="en">ND VS VILL</title>
     <sub-title lang="en">NCAA Basketball on Fox</sub-title>
@@ -390,8 +460,11 @@
   </programme>
   <programme start="20261102045900 +0000" stop="20261102075900 +0000" channel="sports-daily-guide">
     <title lang="en">LIB VS HPU</title>
-    <sub-title lang="en">NCAA Basketball</sub-title>
+    <sub-title lang="en">NCAA Basketball on YouTube</sub-title>
     <desc lang="en">LIB VS HPU (NCAA Basketball) - 11/1 - 11:59 PM EST</desc>
+    <credits>
+      <presenter>YouTube</presenter>
+    </credits>
     <category lang="en">NCAA Basketball</category>
   </programme>
 </tv>
