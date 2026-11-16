@@ -31,387 +31,10 @@
     </credits>
     <category lang="en">NFL</category>
   </programme>
-  <programme start="20261114020000 +0000" stop="20261114050000 +0000" channel="sports-daily-guide">
-    <title lang="en">ILL @ UCLA</title>
-    <sub-title lang="en">NCAA Football on Fox</sub-title>
-    <desc lang="en">ILL @ UCLA (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114031500 +0000" stop="20261114061500 +0000" channel="sports-daily-guide">
-    <title lang="en">HOU @ COLO</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
-    <desc lang="en">HOU @ COLO (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114170000 +0000" stop="20261114200000 +0000" channel="sports-daily-guide">
-    <title lang="en">DUKE @ MIA</title>
-    <sub-title lang="en">NCAA Football on ABC</sub-title>
-    <desc lang="en">DUKE @ MIA (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ABC</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114170000 +0000" stop="20261114200000 +0000" channel="sports-daily-guide">
-    <title lang="en">WAKE @ SMU</title>
-    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
-    <desc lang="en">WAKE @ SMU (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-      <presenter>Disney+</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114170000 +0000" stop="20261114200000 +0000" channel="sports-daily-guide">
-    <title lang="en">NU @ OSU</title>
-    <sub-title lang="en">NCAA Football on Fox</sub-title>
-    <desc lang="en">NU @ OSU (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114174500 +0000" stop="20261114204500 +0000" channel="sports-daily-guide">
-    <title lang="en">ALA @ VAN</title>
-    <sub-title lang="en">NCAA Football on SEC Network</sub-title>
-    <desc lang="en">ALA @ VAN (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>SEC Network</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114180000 +0000" stop="20261114210000 +0000" channel="sports-daily-guide">
-    <title lang="en">SEA @ CAR</title>
-    <sub-title lang="en">NHL on NHL Net/CARNHL</sub-title>
-    <desc lang="en">SEA @ CAR (NHL) - Final</desc>
-    <credits>
-      <presenter>NHL Net</presenter>
-      <presenter>CARNHL</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261114190000 +0000" stop="20261114220000 +0000" channel="sports-daily-guide">
-    <title lang="en">STO @ TTU</title>
-    <sub-title lang="en">NCAA Basketball on ESPN+</sub-title>
-    <desc lang="en">STO @ TTU (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261114200000 +0000" stop="20261114230000 +0000" channel="sports-daily-guide">
-    <title lang="en">TENN @ TA&amp;M</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
-    <desc lang="en">TENN @ TA&amp;M (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114233000 +0000" channel="sports-daily-guide">
-    <title lang="en">WPG @ CHI</title>
-    <sub-title lang="en">NHL on ESPN+/CHSN</sub-title>
-    <desc lang="en">WPG @ CHI (NHL) - Final/SO</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>CHSN</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114233000 +0000" channel="sports-daily-guide">
-    <title lang="en">MIZ @ UGA</title>
-    <sub-title lang="en">NCAA Football on ABC/Disney+</sub-title>
-    <desc lang="en">MIZ @ UGA (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ABC</presenter>
-      <presenter>Disney+</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114233000 +0000" channel="sports-daily-guide">
-    <title lang="en">BC @ ND</title>
-    <sub-title lang="en">NCAA Football on NBC</sub-title>
-    <desc lang="en">BC @ ND (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>NBC</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114233000 +0000" channel="sports-daily-guide">
-    <title lang="en">USC @ IU</title>
-    <sub-title lang="en">NCAA Football on CBS</sub-title>
-    <desc lang="en">USC @ IU (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>CBS</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114233000 +0000" channel="sports-daily-guide">
-    <title lang="en">MICH @ ORE</title>
-    <sub-title lang="en">NCAA Football on FS1</sub-title>
-    <desc lang="en">MICH @ ORE (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>FS1</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114203000 +0000" stop="20261114233000 +0000" channel="sports-daily-guide">
-    <title lang="en">LSU @ GONZ</title>
-    <sub-title lang="en">NCAA Basketball on USA Net</sub-title>
-    <desc lang="en">LSU @ GONZ (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>USA Net</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261114230000 +0000" stop="20261115020000 +0000" channel="sports-daily-guide">
-    <title lang="en">ORST @ BOIS</title>
-    <sub-title lang="en">NCAA Football on USA Net</sub-title>
-    <desc lang="en">ORST @ BOIS (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>USA Net</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261114231500 +0000" stop="20261115021500 +0000" channel="sports-daily-guide">
-    <title lang="en">FLA @ UK</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
-    <desc lang="en">FLA @ UK (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">DEN @ NO</title>
-    <sub-title lang="en">NBA on GCSEN/Pelicans.com</sub-title>
-    <desc lang="en">DEN @ NO (NBA) - Final</desc>
-    <credits>
-      <presenter>GCSEN</presenter>
-      <presenter>Pelicans.com</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">MIN @ BOS</title>
-    <sub-title lang="en">NHL on ESPN+/MINNHL</sub-title>
-    <desc lang="en">MIN @ BOS (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>MINNHL</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">EDM @ TOR</title>
-    <sub-title lang="en">NHL on NHL Net</sub-title>
-    <desc lang="en">EDM @ TOR (NHL) - Final</desc>
-    <credits>
-      <presenter>NHL Net</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">COL @ MTL</title>
-    <sub-title lang="en">NHL on ESPN+/Altitude 2 Sports</sub-title>
-    <desc lang="en">COL @ MTL (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>Altitude 2 Sports</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">DET @ TB</title>
-    <sub-title lang="en">NHL on ESPN+/DSN</sub-title>
-    <desc lang="en">DET @ TB (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>DSN</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">OTT @ PIT</title>
-    <sub-title lang="en">NHL on ESPN+</sub-title>
-    <desc lang="en">OTT @ PIT (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">NJ @ WSH</title>
-    <sub-title lang="en">NHL on ESPN+/MNMT</sub-title>
-    <desc lang="en">NJ @ WSH (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>MNMT</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">PHI @ CBJ</title>
-    <sub-title lang="en">NHL on ESPN+/NBC Sports Phil</sub-title>
-    <desc lang="en">PHI @ CBJ (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>NBC Sports Phil</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">FLA @ STL</title>
-    <sub-title lang="en">NHL on ESPN+/Scripps Sports</sub-title>
-    <desc lang="en">FLA @ STL (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>Scripps Sports</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115000000 +0000" stop="20261115030000 +0000" channel="sports-daily-guide">
-    <title lang="en">BAY @ BYU</title>
-    <sub-title lang="en">NCAA Football on Fox</sub-title>
-    <desc lang="en">BAY @ BYU (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261115003000 +0000" stop="20261115033000 +0000" channel="sports-daily-guide">
-    <title lang="en">DAL @ CLE</title>
-    <sub-title lang="en">NBA on KFAA-TV/MavsTV</sub-title>
-    <desc lang="en">DAL @ CLE (NBA) - Final</desc>
-    <credits>
-      <presenter>KFAA-TV</presenter>
-      <presenter>MavsTV</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115003000 +0000" stop="20261115033000 +0000" channel="sports-daily-guide">
-    <title lang="en">TEX @ LSU</title>
-    <sub-title lang="en">NCAA Football on ABC</sub-title>
-    <desc lang="en">TEX @ LSU (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ABC</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261115003000 +0000" stop="20261115033000 +0000" channel="sports-daily-guide">
-    <title lang="en">PUR @ IOWA</title>
-    <sub-title lang="en">NCAA Football on NBC</sub-title>
-    <desc lang="en">PUR @ IOWA (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>NBC</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261115004500 +0000" stop="20261115034500 +0000" channel="sports-daily-guide">
-    <title lang="en">SC @ ARK</title>
-    <sub-title lang="en">NCAA Football on SEC Network</sub-title>
-    <desc lang="en">SC @ ARK (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>SEC Network</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261115010000 +0000" stop="20261115040000 +0000" channel="sports-daily-guide">
-    <title lang="en">DET @ MIA</title>
-    <sub-title lang="en">NBA on NBA TV</sub-title>
-    <desc lang="en">DET @ MIA (NBA) - Final</desc>
-    <credits>
-      <presenter>NBA TV</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115010000 +0000" stop="20261115040000 +0000" channel="sports-daily-guide">
-    <title lang="en">BKN @ MEM</title>
-    <sub-title lang="en">NBA on DAZN (YES)/DAZN MEM</sub-title>
-    <desc lang="en">BKN @ MEM (NBA) - Final</desc>
-    <credits>
-      <presenter>DAZN (YES)</presenter>
-      <presenter>DAZN MEM</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115010000 +0000" stop="20261115040000 +0000" channel="sports-daily-guide">
-    <title lang="en">CHI @ MIN</title>
-    <sub-title lang="en">NBA on DAZN MIN</sub-title>
-    <desc lang="en">CHI @ MIN (NBA) - Final</desc>
-    <credits>
-      <presenter>DAZN MIN</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115010000 +0000" stop="20261115040000 +0000" channel="sports-daily-guide">
-    <title lang="en">BUF @ DAL</title>
-    <sub-title lang="en">NHL on ESPN+/MSGB</sub-title>
-    <desc lang="en">BUF @ DAL (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>MSGB</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115020000 +0000" stop="20261115050000 +0000" channel="sports-daily-guide">
-    <title lang="en">SJ @ UTA</title>
-    <sub-title lang="en">NHL on ESPN+/NBC Sports BA</sub-title>
-    <desc lang="en">SJ @ UTA (NHL) - Final/SO</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>NBC Sports BA</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115023000 +0000" stop="20261115053000 +0000" channel="sports-daily-guide">
-    <title lang="en">TTU @ OKST</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
-    <desc lang="en">TTU @ OKST (NCAA Football) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
-  <programme start="20261115030000 +0000" stop="20261115060000 +0000" channel="sports-daily-guide">
-    <title lang="en">NYI @ ANA</title>
-    <sub-title lang="en">NHL on ESPN+/MSGSN</sub-title>
-    <desc lang="en">NYI @ ANA (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>MSGSN</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115030000 +0000" stop="20261115060000 +0000" channel="sports-daily-guide">
-    <title lang="en">CGY @ LA</title>
-    <sub-title lang="en">NHL on ESPN+/ABTV</sub-title>
-    <desc lang="en">CGY @ LA (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>ABTV</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261115033000 +0000" stop="20261115063000 +0000" channel="sports-daily-guide">
-    <title lang="en">UTAH @ ARIZ</title>
-    <sub-title lang="en">NCAA Football on Fox</sub-title>
-    <desc lang="en">UTAH @ ARIZ (NCAA Football) - 8:09 - 4th</desc>
-    <credits>
-      <presenter>Fox</presenter>
-    </credits>
-    <category lang="en">NCAA Football</category>
-  </programme>
   <programme start="20261115143000 +0000" stop="20261115173000 +0000" channel="sports-daily-guide">
     <title lang="en">NE VS DET</title>
     <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">NE VS DET (NFL) - 11/15 - 9:30 AM EST</desc>
+    <desc lang="en">NE VS DET (NFL) - Final</desc>
     <credits>
       <presenter>Fox</presenter>
     </credits>
@@ -420,7 +43,7 @@
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
     <title lang="en">KC @ ATL</title>
     <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">KC @ ATL (NFL) - 11/15 - 1:00 PM EST</desc>
+    <desc lang="en">KC @ ATL (NFL) - Final</desc>
     <credits>
       <presenter>CBS</presenter>
     </credits>
@@ -429,7 +52,7 @@
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
     <title lang="en">HOU @ CLE</title>
     <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">HOU @ CLE (NFL) - 11/15 - 1:00 PM EST</desc>
+    <desc lang="en">HOU @ CLE (NFL) - Final</desc>
     <credits>
       <presenter>Fox</presenter>
     </credits>
@@ -438,7 +61,7 @@
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
     <title lang="en">MIN @ GB</title>
     <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">MIN @ GB (NFL) - 11/15 - 1:00 PM EST</desc>
+    <desc lang="en">MIN @ GB (NFL) - Final</desc>
     <credits>
       <presenter>Fox</presenter>
     </credits>
@@ -447,7 +70,7 @@
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
     <title lang="en">JAX @ TEN</title>
     <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">JAX @ TEN (NFL) - 11/15 - 1:00 PM EST</desc>
+    <desc lang="en">JAX @ TEN (NFL) - Final</desc>
     <credits>
       <presenter>Fox</presenter>
     </credits>
@@ -456,7 +79,7 @@
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
     <title lang="en">MIA @ IND</title>
     <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">MIA @ IND (NFL) - 11/15 - 1:00 PM EST</desc>
+    <desc lang="en">MIA @ IND (NFL) - Final</desc>
     <credits>
       <presenter>CBS</presenter>
     </credits>
@@ -465,7 +88,7 @@
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
     <title lang="en">CAR @ NO</title>
     <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">CAR @ NO (NFL) - 11/15 - 1:00 PM EST</desc>
+    <desc lang="en">CAR @ NO (NFL) - Final</desc>
     <credits>
       <presenter>Fox</presenter>
     </credits>
@@ -474,25 +97,71 @@
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
     <title lang="en">BUF @ NYJ</title>
     <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">BUF @ NYJ (NFL) - 11/15 - 1:00 PM EST</desc>
+    <desc lang="en">BUF @ NYJ (NFL) - Final</desc>
     <credits>
       <presenter>CBS</presenter>
     </credits>
     <category lang="en">NFL</category>
   </programme>
   <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
-    <title lang="en">MISS @ OU</title>
-    <sub-title lang="en">NCAA Football on SEC Network</sub-title>
-    <desc lang="en">MISS @ OU (NCAA Football) - 11/15 - 1:00 PM EST</desc>
+    <title lang="en">IND @ PHI</title>
+    <sub-title lang="en">NBA on DAZN IND</sub-title>
+    <desc lang="en">IND @ PHI (NBA) - Final</desc>
     <credits>
-      <presenter>SEC Network</presenter>
+      <presenter>DAZN IND</presenter>
     </credits>
-    <category lang="en">NCAA Football</category>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
+    <title lang="en">LOU @ MEM</title>
+    <sub-title lang="en">NCAA Basketball on ESPN</sub-title>
+    <desc lang="en">LOU @ MEM (NCAA Basketball) - Final</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
+    <title lang="en">BOIS VS NEB</title>
+    <sub-title lang="en">NCAA Basketball on BTN</sub-title>
+    <desc lang="en">BOIS VS NEB (NCAA Basketball) - Final</desc>
+    <credits>
+      <presenter>BTN</presenter>
+    </credits>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261115190000 +0000" stop="20261115220000 +0000" channel="sports-daily-guide">
+    <title lang="en">W&amp;M @ MICH</title>
+    <sub-title lang="en">NCAA Basketball on B1G+</sub-title>
+    <desc lang="en">W&amp;M @ MICH (NCAA Basketball) - Final</desc>
+    <credits>
+      <presenter>B1G+</presenter>
+    </credits>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261115200000 +0000" stop="20261115230000 +0000" channel="sports-daily-guide">
+    <title lang="en">BAY VS TEX</title>
+    <sub-title lang="en">NCAA Basketball on ESPN</sub-title>
+    <desc lang="en">BAY VS TEX (NCAA Basketball) - Final</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261115210000 +0000" stop="20261116000000 +0000" channel="sports-daily-guide">
+    <title lang="en">LAL @ PHX</title>
+    <sub-title lang="en">NBA on Spectrum Sports Net/Spectrum Sports Net +</sub-title>
+    <desc lang="en">LAL @ PHX (NBA) - Final</desc>
+    <credits>
+      <presenter>Spectrum Sports Net</presenter>
+      <presenter>Spectrum Sports Net +</presenter>
+    </credits>
+    <category lang="en">NBA</category>
   </programme>
   <programme start="20261115210500 +0000" stop="20261116000500 +0000" channel="sports-daily-guide">
     <title lang="en">SEA @ LV</title>
     <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">SEA @ LV (NFL) - 11/15 - 4:05 PM EST</desc>
+    <desc lang="en">SEA @ LV (NFL) - Final</desc>
     <credits>
       <presenter>CBS</presenter>
     </credits>
@@ -501,7 +170,7 @@
   <programme start="20261115210500 +0000" stop="20261116000500 +0000" channel="sports-daily-guide">
     <title lang="en">LAR @ ARI</title>
     <sub-title lang="en">NFL on CBS</sub-title>
-    <desc lang="en">LAR @ ARI (NFL) - 11/15 - 4:05 PM EST</desc>
+    <desc lang="en">LAR @ ARI (NFL) - Final</desc>
     <credits>
       <presenter>CBS</presenter>
     </credits>
@@ -510,20 +179,152 @@
   <programme start="20261115212500 +0000" stop="20261116002500 +0000" channel="sports-daily-guide">
     <title lang="en">SF @ DAL</title>
     <sub-title lang="en">NFL on Fox</sub-title>
-    <desc lang="en">SF @ DAL (NFL) - 11/15 - 4:25 PM EST</desc>
+    <desc lang="en">SF @ DAL (NFL) - Final</desc>
     <credits>
       <presenter>Fox</presenter>
     </credits>
     <category lang="en">NFL</category>
   </programme>
+  <programme start="20261115213000 +0000" stop="20261116003000 +0000" channel="sports-daily-guide">
+    <title lang="en">CHA @ LAC</title>
+    <sub-title lang="en">NBA on ClipperVision</sub-title>
+    <desc lang="en">CHA @ LAC (NBA) - Final</desc>
+    <credits>
+      <presenter>ClipperVision</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261115220000 +0000" stop="20261116010000 +0000" channel="sports-daily-guide">
+    <title lang="en">SA @ UTAH</title>
+    <sub-title lang="en">NBA on KJZZ-TV/Jazz+</sub-title>
+    <desc lang="en">SA @ UTAH (NBA) - Final</desc>
+    <credits>
+      <presenter>KJZZ-TV</presenter>
+      <presenter>Jazz+</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261115230000 +0000" stop="20261116020000 +0000" channel="sports-daily-guide">
+    <title lang="en">DAL @ BOS</title>
+    <sub-title lang="en">NBA on KFAA-TV/MavsTV</sub-title>
+    <desc lang="en">DAL @ BOS (NBA) - Final</desc>
+    <credits>
+      <presenter>KFAA-TV</presenter>
+      <presenter>MavsTV</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261115230000 +0000" stop="20261116020000 +0000" channel="sports-daily-guide">
+    <title lang="en">NY @ TOR</title>
+    <sub-title lang="en">NBA</sub-title>
+    <desc lang="en">NY @ TOR (NBA) - Final/OT</desc>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="sports-daily-guide">
+    <title lang="en">HOU @ WSH</title>
+    <sub-title lang="en">NBA on MNMT</sub-title>
+    <desc lang="en">HOU @ WSH (NBA) - Final</desc>
+    <credits>
+      <presenter>MNMT</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="sports-daily-guide">
+    <title lang="en">SYR @ SJU</title>
+    <sub-title lang="en">NCAA Basketball on Peacock</sub-title>
+    <desc lang="en">SYR @ SJU (NCAA Basketball) - Final</desc>
+    <credits>
+      <presenter>Peacock</presenter>
+    </credits>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="sports-daily-guide">
+    <title lang="en">UAPB @ USC</title>
+    <sub-title lang="en">NCAA Basketball on B1G+</sub-title>
+    <desc lang="en">UAPB @ USC (NCAA Basketball) - Final</desc>
+    <credits>
+      <presenter>B1G+</presenter>
+    </credits>
+    <category lang="en">NCAA Basketball</category>
+  </programme>
+  <programme start="20261116003000 +0000" stop="20261116033000 +0000" channel="sports-daily-guide">
+    <title lang="en">EDM @ PHI</title>
+    <sub-title lang="en">NHL on ESPN+/NBC Sports Phil</sub-title>
+    <desc lang="en">EDM @ PHI (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>NBC Sports Phil</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261116010000 +0000" stop="20261116040000 +0000" channel="sports-daily-guide">
+    <title lang="en">ATL @ MIL</title>
+    <sub-title lang="en">NBA on MyMi/Bucks App</sub-title>
+    <desc lang="en">ATL @ MIL (NBA) - Final</desc>
+    <credits>
+      <presenter>MyMi</presenter>
+      <presenter>Bucks App</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261116010000 +0000" stop="20261116040000 +0000" channel="sports-daily-guide">
+    <title lang="en">FLA @ DAL</title>
+    <sub-title lang="en">NHL on NHL Net/Scripps Sports</sub-title>
+    <desc lang="en">FLA @ DAL (NHL) - Final/OT</desc>
+    <credits>
+      <presenter>NHL Net</presenter>
+      <presenter>Scripps Sports</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261116010000 +0000" stop="20261116040000 +0000" channel="sports-daily-guide">
+    <title lang="en">CGY @ ANA</title>
+    <sub-title lang="en">NHL on ESPN+/KCOP</sub-title>
+    <desc lang="en">CGY @ ANA (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>KCOP</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
   <programme start="20261116012000 +0000" stop="20261116042000 +0000" channel="sports-daily-guide">
     <title lang="en">PIT @ CIN</title>
     <sub-title lang="en">NFL on NBC</sub-title>
-    <desc lang="en">PIT @ CIN (NFL) - 11/15 - 8:20 PM EST</desc>
+    <desc lang="en">PIT @ CIN (NFL) - Final</desc>
     <credits>
       <presenter>NBC</presenter>
     </credits>
     <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="sports-daily-guide">
+    <title lang="en">OKC @ SAC</title>
+    <sub-title lang="en">NBA on KSBI/Thunder App</sub-title>
+    <desc lang="en">OKC @ SAC (NBA) - Final</desc>
+    <credits>
+      <presenter>KSBI</presenter>
+      <presenter>Thunder App</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="sports-daily-guide">
+    <title lang="en">VAN @ VGK</title>
+    <sub-title lang="en">NHL on ESPN+/Scripps Sports</sub-title>
+    <desc lang="en">VAN @ VGK (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>Scripps Sports</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="sports-daily-guide">
+    <title lang="en">NSH @ SJ</title>
+    <sub-title lang="en">NHL on ESPN+/Scripps Sports</sub-title>
+    <desc lang="en">NSH @ SJ (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>Scripps Sports</presenter>
+    </credits>
+    <category lang="en">NHL</category>
   </programme>
   <programme start="20261117011500 +0000" stop="20261117041500 +0000" channel="sports-daily-guide">
     <title lang="en">LAC @ BAL</title>
@@ -551,5 +352,203 @@
       <presenter>Apple TV</presenter>
     </credits>
     <category lang="en">MLS</category>
+  </programme>
+  <programme start="20261121010000 +0000" stop="20261121040000 +0000" channel="sports-daily-guide">
+    <title lang="en">ORE @ MSU</title>
+    <sub-title lang="en">NCAA Football on Fox</sub-title>
+    <desc lang="en">ORE @ MSU (NCAA Football) - 11/20 - 8:00 PM EST</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121200000 +0000" channel="sports-daily-guide">
+    <title lang="en">BYU @ KU</title>
+    <sub-title lang="en">NCAA Football on ABC</sub-title>
+    <desc lang="en">BYU @ KU (NCAA Football) - 11/21 - 12:00 PM EST</desc>
+    <credits>
+      <presenter>ABC</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121200000 +0000" channel="sports-daily-guide">
+    <title lang="en">WAKE @ GT</title>
+    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <desc lang="en">WAKE @ GT (NCAA Football) - 11/21 - 12:00 PM EST</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121200000 +0000" channel="sports-daily-guide">
+    <title lang="en">WOF @ MISS</title>
+    <sub-title lang="en">NCAA Football on SECN+</sub-title>
+    <desc lang="en">WOF @ MISS (NCAA Football) - 11/21 - 12:00 PM EST</desc>
+    <credits>
+      <presenter>SECN+</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121170000 +0000" stop="20261121200000 +0000" channel="sports-daily-guide">
+    <title lang="en">OSU @ NEB</title>
+    <sub-title lang="en">NCAA Football on Fox</sub-title>
+    <desc lang="en">OSU @ NEB (NCAA Football) - 11/21 - 12:00 PM EST</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121180000 +0000" stop="20261121210000 +0000" channel="sports-daily-guide">
+    <title lang="en">HOU @ WVU</title>
+    <sub-title lang="en">NCAA Football on TNT</sub-title>
+    <desc lang="en">HOU @ WVU (NCAA Football) - 11/21 - 1:00 PM EST</desc>
+    <credits>
+      <presenter>TNT</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121190000 +0000" stop="20261121220000 +0000" channel="sports-daily-guide">
+    <title lang="en">UTC @ ALA</title>
+    <sub-title lang="en">NCAA Football on SECN+</sub-title>
+    <desc lang="en">UTC @ ALA (NCAA Football) - 11/21 - 2:00 PM EST</desc>
+    <credits>
+      <presenter>SECN+</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121193000 +0000" stop="20261121223000 +0000" channel="sports-daily-guide">
+    <title lang="en">IOWA @ ILL</title>
+    <sub-title lang="en">NCAA Football on BTN</sub-title>
+    <desc lang="en">IOWA @ ILL (NCAA Football) - 11/21 - 2:30 PM EST</desc>
+    <credits>
+      <presenter>BTN</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121233000 +0000" channel="sports-daily-guide">
+    <title lang="en">UCLA @ MICH</title>
+    <sub-title lang="en">NCAA Football on CBS</sub-title>
+    <desc lang="en">UCLA @ MICH (NCAA Football) - 11/21 - 3:30 PM EST</desc>
+    <credits>
+      <presenter>CBS</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121233000 +0000" channel="sports-daily-guide">
+    <title lang="en">ARK @ TEX</title>
+    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <desc lang="en">ARK @ TEX (NCAA Football) - 11/21 - 3:30 PM EST</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121233000 +0000" channel="sports-daily-guide">
+    <title lang="en">LSU @ TENN</title>
+    <sub-title lang="en">NCAA Football on ABC</sub-title>
+    <desc lang="en">LSU @ TENN (NCAA Football) - 11/21 - 3:30 PM EST</desc>
+    <credits>
+      <presenter>ABC</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121233000 +0000" channel="sports-daily-guide">
+    <title lang="en">IU @ WASH</title>
+    <sub-title lang="en">NCAA Football on Peacock</sub-title>
+    <desc lang="en">IU @ WASH (NCAA Football) - 11/21 - 3:30 PM EST</desc>
+    <credits>
+      <presenter>Peacock</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121203000 +0000" stop="20261121233000 +0000" channel="sports-daily-guide">
+    <title lang="en">TTU @ BAY</title>
+    <sub-title lang="en">NCAA Football on Fox</sub-title>
+    <desc lang="en">TTU @ BAY (NCAA Football) - 11/21 - 3:30 PM EST</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261121231500 +0000" stop="20261122021500 +0000" channel="sports-daily-guide">
+    <title lang="en">MD @ USC</title>
+    <sub-title lang="en">NCAA Football on BTN</sub-title>
+    <desc lang="en">MD @ USC (NCAA Football) - 11/21 - 6:15 PM EST</desc>
+    <credits>
+      <presenter>BTN</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122000000 +0000" stop="20261122030000 +0000" channel="sports-daily-guide">
+    <title lang="en">VT @ MIA</title>
+    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <desc lang="en">VT @ MIA (NCAA Football) - 11/21 - 7:00 PM EST</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122000000 +0000" stop="20261122030000 +0000" channel="sports-daily-guide">
+    <title lang="en">ARIZ @ KSU</title>
+    <sub-title lang="en">NCAA Football on FS1</sub-title>
+    <desc lang="en">ARIZ @ KSU (NCAA Football) - 11/21 - 7:00 PM EST</desc>
+    <credits>
+      <presenter>FS1</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122033000 +0000" channel="sports-daily-guide">
+    <title lang="en">UGA @ SC</title>
+    <sub-title lang="en">NCAA Football on ABC</sub-title>
+    <desc lang="en">UGA @ SC (NCAA Football) - 11/21 - 7:30 PM EST</desc>
+    <credits>
+      <presenter>ABC</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122033000 +0000" channel="sports-daily-guide">
+    <title lang="en">SMU @ ND</title>
+    <sub-title lang="en">NCAA Football on NBC</sub-title>
+    <desc lang="en">SMU @ ND (NCAA Football) - 11/21 - 7:30 PM EST</desc>
+    <credits>
+      <presenter>NBC</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122003000 +0000" stop="20261122033000 +0000" channel="sports-daily-guide">
+    <title lang="en">UK @ MIZ</title>
+    <sub-title lang="en">NCAA Football on SEC Network</sub-title>
+    <desc lang="en">UK @ MIZ (NCAA Football) - 11/21 - 7:30 PM EST</desc>
+    <credits>
+      <presenter>SEC Network</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122020000 +0000" stop="20261122050000 +0000" channel="sports-daily-guide">
+    <title lang="en">UTAH @ TCU</title>
+    <sub-title lang="en">NCAA Football on Fox</sub-title>
+    <desc lang="en">UTAH @ TCU (NCAA Football) - 11/21 - 9:00 PM EST</desc>
+    <credits>
+      <presenter>Fox</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122023000 +0000" stop="20261122053000 +0000" channel="sports-daily-guide">
+    <title lang="en">SDSU @ BOIS</title>
+    <sub-title lang="en">NCAA Football on USA Net</sub-title>
+    <desc lang="en">SDSU @ BOIS (NCAA Football) - 11/21 - 9:30 PM EST</desc>
+    <credits>
+      <presenter>USA Net</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
+  </programme>
+  <programme start="20261122031500 +0000" stop="20261122061500 +0000" channel="sports-daily-guide">
+    <title lang="en">OKST @ ASU</title>
+    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <desc lang="en">OKST @ ASU (NCAA Football) - 11/21 - 10:15 PM EST</desc>
+    <credits>
+      <presenter>ESPN</presenter>
+    </credits>
+    <category lang="en">NCAA Football</category>
   </programme>
 </tv>
