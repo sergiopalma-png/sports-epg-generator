@@ -103,61 +103,6 @@
     </credits>
     <category lang="en">NFL</category>
   </programme>
-  <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
-    <title lang="en">IND @ PHI</title>
-    <sub-title lang="en">NBA on DAZN IND</sub-title>
-    <desc lang="en">IND @ PHI (NBA) - Final</desc>
-    <credits>
-      <presenter>DAZN IND</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
-    <title lang="en">LOU @ MEM</title>
-    <sub-title lang="en">NCAA Basketball on ESPN</sub-title>
-    <desc lang="en">LOU @ MEM (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261115180000 +0000" stop="20261115210000 +0000" channel="sports-daily-guide">
-    <title lang="en">BOIS VS NEB</title>
-    <sub-title lang="en">NCAA Basketball on BTN</sub-title>
-    <desc lang="en">BOIS VS NEB (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>BTN</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261115190000 +0000" stop="20261115220000 +0000" channel="sports-daily-guide">
-    <title lang="en">W&amp;M @ MICH</title>
-    <sub-title lang="en">NCAA Basketball on B1G+</sub-title>
-    <desc lang="en">W&amp;M @ MICH (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>B1G+</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261115200000 +0000" stop="20261115230000 +0000" channel="sports-daily-guide">
-    <title lang="en">BAY VS TEX</title>
-    <sub-title lang="en">NCAA Basketball on ESPN</sub-title>
-    <desc lang="en">BAY VS TEX (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>ESPN</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261115210000 +0000" stop="20261116000000 +0000" channel="sports-daily-guide">
-    <title lang="en">LAL @ PHX</title>
-    <sub-title lang="en">NBA on Spectrum Sports Net/Spectrum Sports Net +</sub-title>
-    <desc lang="en">LAL @ PHX (NBA) - Final</desc>
-    <credits>
-      <presenter>Spectrum Sports Net</presenter>
-      <presenter>Spectrum Sports Net +</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
   <programme start="20261115210500 +0000" stop="20261116000500 +0000" channel="sports-daily-guide">
     <title lang="en">SEA @ LV</title>
     <sub-title lang="en">NFL on CBS</sub-title>
@@ -185,108 +130,6 @@
     </credits>
     <category lang="en">NFL</category>
   </programme>
-  <programme start="20261115213000 +0000" stop="20261116003000 +0000" channel="sports-daily-guide">
-    <title lang="en">CHA @ LAC</title>
-    <sub-title lang="en">NBA on ClipperVision</sub-title>
-    <desc lang="en">CHA @ LAC (NBA) - Final</desc>
-    <credits>
-      <presenter>ClipperVision</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115220000 +0000" stop="20261116010000 +0000" channel="sports-daily-guide">
-    <title lang="en">SA @ UTAH</title>
-    <sub-title lang="en">NBA on KJZZ-TV/Jazz+</sub-title>
-    <desc lang="en">SA @ UTAH (NBA) - Final</desc>
-    <credits>
-      <presenter>KJZZ-TV</presenter>
-      <presenter>Jazz+</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115230000 +0000" stop="20261116020000 +0000" channel="sports-daily-guide">
-    <title lang="en">DAL @ BOS</title>
-    <sub-title lang="en">NBA on KFAA-TV/MavsTV</sub-title>
-    <desc lang="en">DAL @ BOS (NBA) - Final</desc>
-    <credits>
-      <presenter>KFAA-TV</presenter>
-      <presenter>MavsTV</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261115230000 +0000" stop="20261116020000 +0000" channel="sports-daily-guide">
-    <title lang="en">NY @ TOR</title>
-    <sub-title lang="en">NBA</sub-title>
-    <desc lang="en">NY @ TOR (NBA) - Final/OT</desc>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="sports-daily-guide">
-    <title lang="en">HOU @ WSH</title>
-    <sub-title lang="en">NBA on MNMT</sub-title>
-    <desc lang="en">HOU @ WSH (NBA) - Final</desc>
-    <credits>
-      <presenter>MNMT</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="sports-daily-guide">
-    <title lang="en">SYR @ SJU</title>
-    <sub-title lang="en">NCAA Basketball on Peacock</sub-title>
-    <desc lang="en">SYR @ SJU (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>Peacock</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261116000000 +0000" stop="20261116030000 +0000" channel="sports-daily-guide">
-    <title lang="en">UAPB @ USC</title>
-    <sub-title lang="en">NCAA Basketball on B1G+</sub-title>
-    <desc lang="en">UAPB @ USC (NCAA Basketball) - Final</desc>
-    <credits>
-      <presenter>B1G+</presenter>
-    </credits>
-    <category lang="en">NCAA Basketball</category>
-  </programme>
-  <programme start="20261116003000 +0000" stop="20261116033000 +0000" channel="sports-daily-guide">
-    <title lang="en">EDM @ PHI</title>
-    <sub-title lang="en">NHL on ESPN+/NBC Sports Phil</sub-title>
-    <desc lang="en">EDM @ PHI (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>NBC Sports Phil</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261116010000 +0000" stop="20261116040000 +0000" channel="sports-daily-guide">
-    <title lang="en">ATL @ MIL</title>
-    <sub-title lang="en">NBA on MyMi/Bucks App</sub-title>
-    <desc lang="en">ATL @ MIL (NBA) - Final</desc>
-    <credits>
-      <presenter>MyMi</presenter>
-      <presenter>Bucks App</presenter>
-    </credits>
-    <category lang="en">NBA</category>
-  </programme>
-  <programme start="20261116010000 +0000" stop="20261116040000 +0000" channel="sports-daily-guide">
-    <title lang="en">FLA @ DAL</title>
-    <sub-title lang="en">NHL on NHL Net/Scripps Sports</sub-title>
-    <desc lang="en">FLA @ DAL (NHL) - Final/OT</desc>
-    <credits>
-      <presenter>NHL Net</presenter>
-      <presenter>Scripps Sports</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
-  <programme start="20261116010000 +0000" stop="20261116040000 +0000" channel="sports-daily-guide">
-    <title lang="en">CGY @ ANA</title>
-    <sub-title lang="en">NHL on ESPN+/KCOP</sub-title>
-    <desc lang="en">CGY @ ANA (NHL) - Final</desc>
-    <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>KCOP</presenter>
-    </credits>
-    <category lang="en">NHL</category>
-  </programme>
   <programme start="20261116012000 +0000" stop="20261116042000 +0000" channel="sports-daily-guide">
     <title lang="en">PIT @ CIN</title>
     <sub-title lang="en">NFL on NBC</sub-title>
@@ -296,44 +139,115 @@
     </credits>
     <category lang="en">NFL</category>
   </programme>
-  <programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="sports-daily-guide">
-    <title lang="en">OKC @ SAC</title>
-    <sub-title lang="en">NBA on KSBI/Thunder App</sub-title>
-    <desc lang="en">OKC @ SAC (NBA) - Final</desc>
+  <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="sports-daily-guide">
+    <title lang="en">ORL @ BOS</title>
+    <sub-title lang="en">NBA on NBCSN</sub-title>
+    <desc lang="en">ORL @ BOS (NBA) - Final</desc>
     <credits>
-      <presenter>KSBI</presenter>
-      <presenter>Thunder App</presenter>
+      <presenter>NBCSN</presenter>
     </credits>
     <category lang="en">NBA</category>
   </programme>
-  <programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="sports-daily-guide">
-    <title lang="en">VAN @ VGK</title>
-    <sub-title lang="en">NHL on ESPN+/Scripps Sports</sub-title>
-    <desc lang="en">VAN @ VGK (NHL) - Final</desc>
+  <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="sports-daily-guide">
+    <title lang="en">CHI @ CLE</title>
+    <sub-title lang="en">NBA on DAZN CLE</sub-title>
+    <desc lang="en">CHI @ CLE (NBA) - Final</desc>
     <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>Scripps Sports</presenter>
+      <presenter>DAZN CLE</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261117000000 +0000" stop="20261117030000 +0000" channel="sports-daily-guide">
+    <title lang="en">MEM @ WSH</title>
+    <sub-title lang="en">NBA on MNMT</sub-title>
+    <desc lang="en">MEM @ WSH (NBA) - Final</desc>
+    <credits>
+      <presenter>MNMT</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261117003000 +0000" stop="20261117033000 +0000" channel="sports-daily-guide">
+    <title lang="en">PHI @ BKN</title>
+    <sub-title lang="en">NBA on DAZN (YES)</sub-title>
+    <desc lang="en">PHI @ BKN (NBA) - Final</desc>
+    <credits>
+      <presenter>DAZN (YES)</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261117003000 +0000" stop="20261117033000 +0000" channel="sports-daily-guide">
+    <title lang="en">HOU @ MIA</title>
+    <sub-title lang="en">NBA</sub-title>
+    <desc lang="en">HOU @ MIA (NBA) - Final</desc>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261117003000 +0000" stop="20261117033000 +0000" channel="sports-daily-guide">
+    <title lang="en">MTL @ NYR</title>
+    <sub-title lang="en">NHL on TNT/truTV</sub-title>
+    <desc lang="en">MTL @ NYR (NHL) - Final</desc>
+    <credits>
+      <presenter>TNT</presenter>
+      <presenter>truTV</presenter>
     </credits>
     <category lang="en">NHL</category>
   </programme>
-  <programme start="20261116020000 +0000" stop="20261116050000 +0000" channel="sports-daily-guide">
-    <title lang="en">NSH @ SJ</title>
-    <sub-title lang="en">NHL on ESPN+/Scripps Sports</sub-title>
-    <desc lang="en">NSH @ SJ (NHL) - Final</desc>
+  <programme start="20261117010000 +0000" stop="20261117040000 +0000" channel="sports-daily-guide">
+    <title lang="en">POR @ MIN</title>
+    <sub-title lang="en">NBA on KUNP 16/BlazerVision</sub-title>
+    <desc lang="en">POR @ MIN (NBA) - Final</desc>
     <credits>
-      <presenter>ESPN+</presenter>
-      <presenter>Scripps Sports</presenter>
+      <presenter>KUNP 16</presenter>
+      <presenter>BlazerVision</presenter>
     </credits>
-    <category lang="en">NHL</category>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261117010000 +0000" stop="20261117040000 +0000" channel="sports-daily-guide">
+    <title lang="en">GS @ NO</title>
+    <sub-title lang="en">NBA on GCSEN/Pelicans.com</sub-title>
+    <desc lang="en">GS @ NO (NBA) - Final</desc>
+    <credits>
+      <presenter>GCSEN</presenter>
+      <presenter>Pelicans.com</presenter>
+    </credits>
+    <category lang="en">NBA</category>
   </programme>
   <programme start="20261117011500 +0000" stop="20261117041500 +0000" channel="sports-daily-guide">
     <title lang="en">LAC @ BAL</title>
     <sub-title lang="en">NFL on ESPN</sub-title>
-    <desc lang="en">LAC @ BAL (NFL) - 11/16 - 8:15 PM EST</desc>
+    <desc lang="en">LAC @ BAL (NFL) - Final</desc>
     <credits>
       <presenter>ESPN</presenter>
     </credits>
     <category lang="en">NFL</category>
+  </programme>
+  <programme start="20261117020000 +0000" stop="20261117050000 +0000" channel="sports-daily-guide">
+    <title lang="en">PHX @ DEN</title>
+    <sub-title lang="en">NBA on Suns Live/Arizona's Family 3TV</sub-title>
+    <desc lang="en">PHX @ DEN (NBA) - Final</desc>
+    <credits>
+      <presenter>Suns Live</presenter>
+      <presenter>Arizona's Family 3TV</presenter>
+    </credits>
+    <category lang="en">NBA</category>
+  </programme>
+  <programme start="20261117023000 +0000" stop="20261117053000 +0000" channel="sports-daily-guide">
+    <title lang="en">VAN @ UTA</title>
+    <sub-title lang="en">NHL on ESPN+/Utah 16</sub-title>
+    <desc lang="en">VAN @ UTA (NHL) - Final</desc>
+    <credits>
+      <presenter>ESPN+</presenter>
+      <presenter>Utah 16</presenter>
+    </credits>
+    <category lang="en">NHL</category>
+  </programme>
+  <programme start="20261117030000 +0000" stop="20261117060000 +0000" channel="sports-daily-guide">
+    <title lang="en">LBSU @ UCLA</title>
+    <sub-title lang="en">NCAA Basketball on BTN</sub-title>
+    <desc lang="en">LBSU @ UCLA (NCAA Basketball) - Final</desc>
+    <credits>
+      <presenter>BTN</presenter>
+    </credits>
+    <category lang="en">NCAA Basketball</category>
   </programme>
   <programme start="20261120003000 +0000" stop="20261120033000 +0000" channel="sports-daily-guide">
     <title lang="en">CIN @ ORL</title>
@@ -436,10 +350,11 @@
   </programme>
   <programme start="20261121203000 +0000" stop="20261121233000 +0000" channel="sports-daily-guide">
     <title lang="en">ARK @ TEX</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
     <desc lang="en">ARK @ TEX (NCAA Football) - 11/21 - 3:30 PM EST</desc>
     <credits>
       <presenter>ESPN</presenter>
+      <presenter>Disney+</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
@@ -481,10 +396,11 @@
   </programme>
   <programme start="20261122000000 +0000" stop="20261122030000 +0000" channel="sports-daily-guide">
     <title lang="en">VT @ MIA</title>
-    <sub-title lang="en">NCAA Football on ESPN</sub-title>
+    <sub-title lang="en">NCAA Football on ESPN/Disney+</sub-title>
     <desc lang="en">VT @ MIA (NCAA Football) - 11/21 - 7:00 PM EST</desc>
     <credits>
       <presenter>ESPN</presenter>
+      <presenter>Disney+</presenter>
     </credits>
     <category lang="en">NCAA Football</category>
   </programme>
